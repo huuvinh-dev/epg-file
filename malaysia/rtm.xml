@@ -1,0 +1,2035 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="rtm">
+  <channel id="DewanNegara.my">
+    <display-name lang="ms">Dewan Negara</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png" />
+  </channel>
+  <channel id="DewanRakyat.my">
+    <display-name lang="ms">Dewan Rakyat</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/7.png" />
+  </channel>
+  <channel id="BeritaRTM.my">
+    <display-name lang="ms">Berita RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </channel>
+  <channel id="Okey.my">
+    <display-name lang="ms">Okey</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </channel>
+  <channel id="SukanRTM.my">
+    <display-name lang="ms">Sukan RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </channel>
+  <channel id="TV1.my">
+    <display-name lang="ms">TV1</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </channel>
+  <channel id="TV2.my">
+    <display-name lang="ms">TV2</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </channel>
+  <channel id="TV6.my">
+    <display-name lang="ms">TV6</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" />
+  </channel>
+  <programme channel="BeritaRTM.my" start="20261031080000 +0800" stop="20261031100000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031100000 +0800" stop="20261031103000 +0800">
+    <title lang="ms">Langkah Pertama</title>
+    <desc lang="ms">Langkah Pertama membawakan panel dalam kalangan ahli akademik, pakar motivasi ibu bapa berpengalaman dan personaliti televisyen membincangkan mengenai kepentingan pendidikan awal membina modal insan generasi muda. Langkah Pertama pada episod kali ini membincangkan topik 'Lu Siapa Nak Tegur Gua' bersama pengacara, Fiza dan Amira Aman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031103000 +0800" stop="20261031104500 +0800">
+    <title lang="ms">i-Kadazan</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031104500 +0800" stop="20261031110000 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031110000 +0800" stop="20261031120000 +0800">
+    <title lang="ms">Townhall Belia</title>
+    <desc lang="ms">Townhall Belia membawakan perbincangan topik-topik menarik di kalangan belia bersama perantara, Wan Kamaruddin.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031120000 +0800" stop="20261031123000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031123000 +0800" stop="20261031130000 +0800">
+    <title lang="ms">World Today</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031130000 +0800" stop="20261031133000 +0800">
+    <title lang="ms">Berita Tengah Hari</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031133000 +0800" stop="20261031140000 +0800">
+    <title lang="ms">KOPIeKONOMI</title>
+    <desc lang="ms">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi/sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031140000 +0800" stop="20261031141500 +0800">
+    <title lang="ms">i-Bajau</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031141500 +0800" stop="20261031143000 +0800">
+    <title lang="ms">Food For Life</title>
+    <desc lang="ms">Food for Life membawakan perbincangan mengenai sains pemakanan kesihatan berkaitan dengan penyakit bersama pakar kesihatan dan pakar pemakanan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031143000 +0800" stop="20261031150000 +0800">
+    <title lang="ms">Virus Konsumer</title>
+    <desc lang="ms">Anda pernah menjadi mangsa sindiket penipuan? Virus Konsumer akan mendapatkan pandangan dan ulasan daripada pihak berwajib dan badan berkanun penyelesaian dan panduan kepada pengguna yang pernah menjadi mangsa. Episod ini mengupas penipuan dalam pakej pelancongan oleh syarikat agensi pelancongan haram dan tidak berdaftar yang sedang berleluasa di negara kita sekarang.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031150000 +0800" stop="20261031150500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031150500 +0800" stop="20261031160000 +0800">
+    <title lang="ms">Vasantham</title>
+    <desc lang="ms">Sebuah program bicarawara yang membincangkan mengenai isu semasa berkaitan komuniti India tempatan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031160000 +0800" stop="20261031160500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031160500 +0800" stop="20261031163000 +0800">
+    <title lang="ms">Pastikan Sahih</title>
+    <desc lang="ms">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031163000 +0800" stop="20261031170000 +0800">
+    <title lang="ms">i-Gen</title>
+    <desc lang="ms">Sebuah program majalah yang mempromosikan pelan pembangunan sukan negara di peringkat akar umbi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031170000 +0800" stop="20261031180000 +0800">
+    <title lang="ms">Berita Wilayah</title>
+    <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031180000 +0800" stop="20261031183000 +0800">
+    <title lang="ms">Rumah Nemo</title>
+    <desc lang="ms">Rumah Nemo memaparkan aktiviti kesukarelawan berkaitan alam sekitar. Menampilkan wartawan lokasi, Adam Shadan bersama komuniti setempat menyempurnakan misi secara bergotong-royong. Menampilkan wartawan lokasi, Adam Shadan bersama komuniti setempat menyempurnakan misi secara bergotong-royong. Pada episod kali ini, Adam akan ke Pulau Maiga, Sabah bersama Institut Penyelidikan Marin Borneo, Universiti Malaysia Sabah dalam episod Restorasi Rumah Laut.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031183000 +0800" stop="20261031190000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031190000 +0800" stop="20261031193000 +0800">
+    <title lang="ms">Destinasi Hijau</title>
+    <desc lang="ms">Pengacara Izzue Islam telah membawa penonton merasai pengalaman flora dan fauna serta pelbagai aktiviti menarik di pelbagai lokasi hijau dalam negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031193000 +0800" stop="20261031194400 +0800">
+    <title lang="ms">Berita Tamil</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031194400 +0800" stop="20261031200000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031200000 +0800" stop="20261031203000 +0800">
+    <title lang="ms">Berita Perdana</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031203000 +0800" stop="20261031210000 +0800">
+    <title lang="ms">Malaysia Tonight</title>
+    <desc lang="ms">Bringing the latest updates from across the globe.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031210000 +0800" stop="20261031213000 +0800">
+    <title lang="ms">On The Table (OTT)</title>
+    <desc lang="ms">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031213000 +0800" stop="20261031220000 +0800">
+    <title lang="ms">World Around Us</title>
+    <desc lang="ms">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031220000 +0800" stop="20261031223000 +0800">
+    <title lang="ms">Behind The Mic</title>
+    <desc lang="ms">'Behind The Mic' is an interview program by a radio channel broadcast to a television platform that discusses a wide range of current issues both locally and internationally, including culture, health, education, and much more. In addition to featuring prominent and influential personalities, the show also explores key topics that impact global society. Each episode offers in-depth insights from special guests who are experts in their fields, providing viewers with an opportunity to gain a broader perspective on the world around them.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031223000 +0800" stop="20261031230000 +0800">
+    <title lang="ms">Global Voices</title>
+    <desc lang="ms">'Global Voices' is a mixed-slot program featuring a blend of engaging content, including both previously aired shows and fresh new programs that resonate with a global audience. Focusing on current issues, culture, technology, and international harmony, Global Voices aims to connect viewers with a broader perspective of the world. The program also offers inspiring stories and discussions from diverse cultural backgrounds, bringing audiences closer to the realities of our increasingly interconnected global community.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261031230000 +0800" stop="20261101000000 +0800">
+    <title lang="ms">Future Endeavours</title>
+    <desc lang="ms">Future Endeavours bringing you the latest trends in economic advancements and hot topics relating to finance and banking with Meor Addelan as the moderator. Arene Cheong will share economic topics in money moves segment.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101000000 +0800" stop="20261101003000 +0800">
+    <title lang="ms">Gastronomic Trail Of Asia</title>
+    <desc lang="ms">Membawa penonton merasai keenakan dan mempelajari resepi masakan disamping meneroka pelbagai budaya, etnik dan destinasi baru.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101003000 +0800" stop="20261101010000 +0800">
+    <title lang="ms">Kembara Perjuangan</title>
+    <desc lang="ms">Bersama hos, Fikhree Bakar menjelajah ke seluruh negara dan mengimbau kembali titik-titik penting dalam sejarah penubuhan Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101010000 +0800" stop="20261101013000 +0800">
+    <title lang="ms">Simfoni Alam</title>
+    <desc lang="ms">Dokumentari memaparkan isu hidupan liar dan alam semula jadi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101013000 +0800" stop="20261101020000 +0800">
+    <title lang="ms">Fly Us To Asia</title>
+    <desc lang="ms">Bersama Liyana Jasmay dan Julia Evans mengembara dan melawat ke tempat menarik di sekitar Asia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101020000 +0800" stop="20261101023000 +0800">
+    <title lang="ms">Bisikan Dari Kota Pusaka</title>
+    <desc lang="ms">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101023000 +0800" stop="20261101030000 +0800">
+    <title lang="ms">Malaysian Delights</title>
+    <desc lang="ms">Kellay, Alina dan Lisha mengembara ke restoran popular di Malaysia yang menyajikan menu masakan dan dalam masa yang sama mengkaji latar belakang sejarahnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101030000 +0800" stop="20261101033000 +0800">
+    <title lang="ms">Bicara Mawarith</title>
+    <desc lang="ms">Hos, Imam Muda Asyraf bersama panel jemputan mengupas isu berkaitan pengurusan harta.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101033000 +0800" stop="20261101040000 +0800">
+    <title lang="ms">Ilmuan Islamiah</title>
+    <desc lang="ms">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101040000 +0800" stop="20261101043000 +0800">
+    <title lang="ms">Kembara Perjuangan</title>
+    <desc lang="ms">Bersama hos, Fikhree Bakar menjelajah ke seluruh negara dan mengimbau kembali titik-titik penting dalam sejarah penubuhan Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101043000 +0800" stop="20261101050000 +0800">
+    <title lang="ms">Iqra'</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada pembelajaran Al-Quran (talaqqi) dan bimbingan membaca Al-Quran dengan tajwid yang betul untuk pelbagai peringkat usia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101050000 +0800" stop="20261101053000 +0800">
+    <title lang="ms">DOKUMENTARI: Cina Peranakan Melaka</title>
+    <desc lang="ms">Ikuti Dokumentari: Cina Peranakan Melaka</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101053000 +0800" stop="20261101060000 +0800">
+    <title lang="ms">Etnik Kita</title>
+    <desc lang="ms">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101060000 +0800" stop="20261101063000 +0800">
+    <title lang="ms">Kembara Alam Borneo</title>
+    <desc lang="ms">Bersama Razzuan Rosli, pengacara Kembara Alam Borneo mengupas keunikan Borneo yang terkenal dengan kepelbagaian kaum dan adat tempatan. Episod kali ini membawa Razzuan ke Limbang mengenali suku kaum Bisayah yang menetap di Kampung Bukid Gudang.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101063000 +0800" stop="20261101065800 +0800">
+    <title lang="ms">Kerajaan Tua Nusantara</title>
+    <desc lang="ms">Program travelog berkonsep sejarah yang membawa penonton menjelajah ke seluruh pelosok Nusantara bagi melihat sisa tinggalan, sejarah dan keistimewaan kerajaan awal yang pernah wujud pada masa lalu.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101065800 +0800" stop="20261101070000 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101070000 +0800" stop="20261101073000 +0800">
+    <title lang="ms">Berita Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101073000 +0800" stop="20261101074000 +0800">
+    <title lang="ms">Stadium RTM Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101074000 +0800" stop="20261101074400 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101074400 +0800" stop="20261101080000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101080000 +0800" stop="20261101100000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101100000 +0800" stop="20261101103000 +0800">
+    <title lang="ms">Melentur Buluh</title>
+    <desc lang="ms">Bersama pengacara, Nadzmi Adhwa menemu ramah bakat-bakat muda industri bersama pakar.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101103000 +0800" stop="20261101104500 +0800">
+    <title lang="ms">i-Kadazan</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101104500 +0800" stop="20261101110000 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101110000 +0800" stop="20261101120000 +0800">
+    <title lang="ms">Fresh Brew</title>
+    <desc lang="ms">A talk show about hobbies, interests and activities that highlighting figures and icons who are successful in the fields they are interested in outside of their respective duties.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101120000 +0800" stop="20261101123000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101123000 +0800" stop="20261101130000 +0800">
+    <title lang="ms">World Today</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Inggeris.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101130000 +0800" stop="20261101133000 +0800">
+    <title lang="ms">Berita Tengah Hari</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101133000 +0800" stop="20261101140000 +0800">
+    <title lang="ms">Notes from Nature</title>
+    <desc lang="ms">Notes from Nature Siri 2 membawa penonton mengembara lagi bersama Mat Dan dalam melihat lebih banyak lagi teknologi hijau yang terdapat di Malaysia. Episod “Pakaian Kitar Semula” ini membawa Mat Dan melihat usaha yang dijalankan oleh Kloth Cares yang ditubuhkan bertujuan untuk memperjuangkan idea mengitar semula fabrik supaya dapat mengurangkan bahan buangan di Malaysia. Mat Dan turut melawat Pereka Fesyen Terkenal, Hatta Dolmat yang turut menggunakan fabrik terpakai untuk menghasilkan rekaan fesyennya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101140000 +0800" stop="20261101141500 +0800">
+    <title lang="ms">i-Bajau</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101141500 +0800" stop="20261101143000 +0800">
+    <title lang="ms">Food For Life</title>
+    <desc lang="ms">Food for Life membawakan perbincangan mengenai sains pemakanan kesihatan berkaitan dengan penyakit bersama pakar kesihatan dan pakar pemakanan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101143000 +0800" stop="20261101150000 +0800">
+    <title lang="ms">Health Garden</title>
+    <desc lang="ms">Health Garden a documentary series explores the transformative capabilities and restorative powers of gardens, gardening, and green spaces – which provide a variety of benefits to a diverse population with different needs. In every episode, the beauty is undeniable – but we go beyond the splendor of the gardens to hear soulful stories of healing from the people who experienced them.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101150000 +0800" stop="20261101150500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101150500 +0800" stop="20261101160000 +0800">
+    <title lang="ms">What Say You</title>
+    <desc lang="ms">Program bicarawara berbahasa Mandarin membicarakan mengenai komuniti Cina di Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101160000 +0800" stop="20261101160500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101160500 +0800" stop="20261101170000 +0800">
+    <title lang="ms">Diari Rawat</title>
+    <desc lang="ms">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101170000 +0800" stop="20261101180000 +0800">
+    <title lang="ms">Berita Wilayah</title>
+    <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101180000 +0800" stop="20261101183000 +0800">
+    <title lang="ms">Travelog Abang Adik</title>
+    <desc lang="ms">Travelog Abang Adik membawakan pengembaraan Naqiu dan Jaa Suzuran ke tempat-tempat menarik di Semenanjung Malaysia. Mereka akan berkelana sambil melengkapkan cabaran-cabaran yang diberikan sepanjang perjalanan mereka. Dalam episod kali ini, mereka akan mengembara menjelajah negeri Melaka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101183000 +0800" stop="20261101190000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Mandarin.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101190000 +0800" stop="20261101193000 +0800">
+    <title lang="ms">Carved Heritage - Scupture Art of Malaysia</title>
+    <desc lang="ms">Carved Heritage – Sculpture Art of Malaysia traveled all across Malaysia to showcase three unique sculptures with the host, Dayah Bakar. In this episode, Dayah traveled to Selangor to present (I) Arca Wood Art Mah Meri, Sungai Bumbun with Samri (Sculptor Artist), (II) Arca Nexus Uitm, Shah Alam with Prof. Madya Ramlan @ Razlan Abdullah (Sculptor Designer), and (III) Arca Art Sasaran Gallery, Jeram with Ng Chaw Tong (Ceramic Maker &amp; Designer) and Ng (Artist &amp; Painter).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101193000 +0800" stop="20261101194400 +0800">
+    <title lang="ms">Berita Tamil</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara berbahasa Tamil.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101194400 +0800" stop="20261101200000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101200000 +0800" stop="20261101203000 +0800">
+    <title lang="ms">Berita Perdana</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101203000 +0800" stop="20261101210000 +0800">
+    <title lang="ms">Malaysia Tonight</title>
+    <desc lang="ms">Bringing the latest updates from across the globe.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101210000 +0800" stop="20261101213000 +0800">
+    <title lang="ms">On The Table (OTT)</title>
+    <desc lang="ms">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101213000 +0800" stop="20261101220000 +0800">
+    <title lang="ms">World Around Us</title>
+    <desc lang="ms">World Around Us is a compilation news program, which brings together content material in the form of features and human interest from ASEAN countries and around the world.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101220000 +0800" stop="20261101223000 +0800">
+    <title lang="ms">Behind The Mic</title>
+    <desc lang="ms">'Behind The Mic' is an interview program by a radio channel broadcast to a television platform that discusses a wide range of current issues both locally and internationally, including culture, health, education, and much more. In addition to featuring prominent and influential personalities, the show also explores key topics that impact global society. Each episode offers in-depth insights from special guests who are experts in their fields, providing viewers with an opportunity to gain a broader perspective on the world around them.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101223000 +0800" stop="20261101230000 +0800">
+    <title lang="ms">Global Voices</title>
+    <desc lang="ms">'Global Voices' is a mixed-slot program featuring a blend of engaging content, including both previously aired shows and fresh new programs that resonate with a global audience. Focusing on current issues, culture, technology, and international harmony, Global Voices aims to connect viewers with a broader perspective of the world. The program also offers inspiring stories and discussions from diverse cultural backgrounds, bringing audiences closer to the realities of our increasingly interconnected global community.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261101230000 +0800" stop="20261102000000 +0800">
+    <title lang="ms">Future Endeavours</title>
+    <desc lang="ms">Future Endeavours bringing you the latest trends in economic advancements and hot topics relating to finance and banking with Meor Addelan as the moderator. Arene Cheong will share economic topics in money moves segment.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102000000 +0800" stop="20261102003000 +0800">
+    <title lang="ms">Gastronomic Trail Of Asia</title>
+    <desc lang="ms">Membawa penonton merasai keenakan dan mempelajari resepi masakan disamping meneroka pelbagai budaya, etnik dan destinasi baru.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102003000 +0800" stop="20261102010000 +0800">
+    <title lang="ms">Kembara Perjuangan</title>
+    <desc lang="ms">Bersama hos, Fikhree Bakar menjelajah ke seluruh negara dan mengimbau kembali titik-titik penting dalam sejarah penubuhan Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102010000 +0800" stop="20261102013000 +0800">
+    <title lang="ms">Simfoni Alam</title>
+    <desc lang="ms">Dokumentari memaparkan isu hidupan liar dan alam semula jadi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102013000 +0800" stop="20261102020000 +0800">
+    <title lang="ms">Fly Us To Asia</title>
+    <desc lang="ms">Bersama Liyana Jasmay dan Julia Evans mengembara dan melawat ke tempat menarik di sekitar Asia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102020000 +0800" stop="20261102023000 +0800">
+    <title lang="ms">Bisikan Dari Kota Pusaka</title>
+    <desc lang="ms">Bisikan Dari Kota Pusaka memaparkan kota-kota pentadbiran yang terdapat di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102023000 +0800" stop="20261102030000 +0800">
+    <title lang="ms">Malaysian Delights</title>
+    <desc lang="ms">Kellay, Alina dan Lisha mengembara ke restoran popular di Malaysia yang menyajikan menu masakan dan dalam masa yang sama mengkaji latar belakang sejarahnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102030000 +0800" stop="20261102033000 +0800">
+    <title lang="ms">Bicara Mawarith</title>
+    <desc lang="ms">Hos, Imam Muda Asyraf bersama panel jemputan mengupas isu berkaitan pengurusan harta.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102033000 +0800" stop="20261102040000 +0800">
+    <title lang="ms">Ilmuan Islamiah</title>
+    <desc lang="ms">Ilmuan Islamiah membawakan perkembangan cabang-cabang ilmu yang diteroka dan dikembangkan oleh tokoh-tokoh pemikir islam. Setiap episod membawakan 2 figura penting, tokoh silam dan tokoh kontemporari dalam bidang ilmu yang diceburi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102040000 +0800" stop="20261102043000 +0800">
+    <title lang="ms">Kembara Perjuangan</title>
+    <desc lang="ms">Bersama hos, Fikhree Bakar menjelajah ke seluruh negara dan mengimbau kembali titik-titik penting dalam sejarah penubuhan Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102043000 +0800" stop="20261102050000 +0800">
+    <title lang="ms">Iqra'</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada pembelajaran Al-Quran (talaqqi) dan bimbingan membaca Al-Quran dengan tajwid yang betul untuk pelbagai peringkat usia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102050000 +0800" stop="20261102053000 +0800">
+    <title lang="ms">DOKUMENTARI: Cina Peranakan Melaka</title>
+    <desc lang="ms">Ikuti Dokumentari: Cina Peranakan Melaka</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102053000 +0800" stop="20261102060000 +0800">
+    <title lang="ms">Etnik Kita</title>
+    <desc lang="ms">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102060000 +0800" stop="20261102063000 +0800">
+    <title lang="ms">Kembara Alam Borneo</title>
+    <desc lang="ms">Bersama Razzuan Rosli, pengacara Kembara Alam Borneo mengupas keunikan Borneo yang terkenal dengan kepelbagaian kaum dan adat tempatan. Episod kali ini membawa Razzuan ke Limbang mengenali suku kaum Bisayah yang menetap di Kampung Bukid Gudang.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102063000 +0800" stop="20261102065800 +0800">
+    <title lang="ms">Kerajaan Tua Nusantara</title>
+    <desc lang="ms">Program travelog berkonsep sejarah yang membawa penonton menjelajah ke seluruh pelosok Nusantara bagi melihat sisa tinggalan, sejarah dan keistimewaan kerajaan awal yang pernah wujud pada masa lalu.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102065800 +0800" stop="20261102070000 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102070000 +0800" stop="20261102073000 +0800">
+    <title lang="ms">Berita Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102073000 +0800" stop="20261102074000 +0800">
+    <title lang="ms">Stadium RTM Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102074000 +0800" stop="20261102074400 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="BeritaRTM.my" start="20261102074400 +0800" stop="20261102080000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+  </programme>
+  <programme channel="DewanRakyat.my" start="20261029100000 +0800" stop="20261102100000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Sidang Khas Parlimen</title>
+    <desc lang="ms">Ikuti secara langsung Sidang Khas Parlimen</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/7.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031080000 +0800" stop="20261031090000 +0800">
+    <title lang="ms">P.A Lelaki Kerek</title>
+    <desc lang="ms">Sebuah drama penuh konflik yang menarik untuk tontonan. Melisa mengelak bersemuka dengan Irshad kerana cemburu disebabkan salah sangkanya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031090000 +0800" stop="20261031100000 +0800">
+    <title lang="ms">Aku, Dia &amp; Pinky Promise</title>
+    <desc lang="ms">Mengisahkan percintaan seorang gadis yang mengimbau kembali sejarah tersebut sejak zaman persekolahan, pelbagai janji dimeterai dalam percintaan beliau yang dipanggil sebagai Pinky Promise.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031100000 +0800" stop="20261031103000 +0800">
+    <title lang="ms">Can We Cook</title>
+    <desc lang="ms">Bersama Dato' Fazley Yaakob yang akan menjemput selebriti jemputan untuk berkongsi resepi menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031103000 +0800" stop="20261031104500 +0800">
+    <title lang="ms">i-Kadazan</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031104500 +0800" stop="20261031110000 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031110000 +0800" stop="20261031120000 +0800">
+    <title lang="ms">STEADEY! 2026</title>
+    <desc lang="ms">Sebuah bual bicara musim terbaru yang akan mengupas pelbagai topik terkini bersama tetamu jemputan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031120000 +0800" stop="20261031123000 +0800">
+    <title lang="ms">Misi Ke Hujung Borneo</title>
+    <desc lang="ms">Att Yusof menerokai keistimewaan lanskap, khazanah alam flora dan fauna dan menyelami keunikan budaya masyarakat setempat di kepulauan Borneo.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031123000 +0800" stop="20261031130000 +0800">
+    <title lang="ms">Citra Deepavali</title>
+    <desc lang="ms">Sebuah dokumentari yang mengupas makna di sebalik perayaan Deepavali.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031130000 +0800" stop="20261031133000 +0800">
+    <title lang="ms">The Singing Chef Season 2</title>
+    <desc lang="ms">Bersama Tiah Ridhwani yang akan berkongsi pelbagai resipi menarik bersama tetamu jemputan sambil menyanyi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031133000 +0800" stop="20261031140000 +0800">
+    <title lang="ms">13 Hari Miri - Sibuti</title>
+    <desc lang="ms">Sebuah rancangan yang membawa penonton menyelam di tempat terpilih.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031140000 +0800" stop="20261031141500 +0800">
+    <title lang="ms">i-Bajau</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031141500 +0800" stop="20261031143000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031143000 +0800" stop="20261031153000 +0800">
+    <title lang="ms">Manuskrip Cinta</title>
+    <desc lang="ms">Rian merupakan seorang doktor yang meyewa rumah bersenelahan rumah Dian. Dian merupakan seorang Novelis yang sentiasa mencari idea baru untuk menulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031153000 +0800" stop="20261031160000 +0800">
+    <title lang="ms">Hobipedia</title>
+    <desc lang="ms">Hobipedia merupakan sesuatu yang dilakukan pada masa lapang namun dapat menghasilkan pendapatan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031160000 +0800" stop="20261031163000 +0800">
+    <title lang="ms">A Day In Uniform</title>
+    <desc lang="ms">Rancangan majalah remaja yang memperkenalkan badan-badan beruniform dalam sektor awam dan swasta bagi memberi pendedahan kepada umum tentang tugas, tanggungjawab dan cabaran mereka untuk bangsa dan negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031163000 +0800" stop="20261031170000 +0800">
+    <title lang="ms">Explore The Scent Holland</title>
+    <desc lang="ms">Perkongsian cef selebriti dan bertukar-tukar resepi bersama cef-cef hebat dan terkenal di negara Belanda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031170000 +0800" stop="20261031173000 +0800">
+    <title lang="ms">Bercuti Bersama Sherry</title>
+    <desc lang="ms">Bersama Sherry Al Hadad yang akan bercuti ke pelbagai tempat yang menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031173000 +0800" stop="20261031180000 +0800">
+    <title lang="ms">Takraw Warrior</title>
+    <desc lang="ms">Sebuah rancangan animasi yang mengisahkan empat orang sahabat baik yang memiliki minat sukan yang sama iaitu Sepak Takraw.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031180000 +0800" stop="20261031183000 +0800">
+    <title lang="ms">Nomad</title>
+    <desc lang="ms">Ikuti kisah pengembaraan ke lokasi menarik Fiza Frizzy dan Ida Yunus di sepanjang perjalanan mereka merentasi Wilayah Eropah Timur.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031183000 +0800" stop="20261031184500 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031184500 +0800" stop="20261031190000 +0800">
+    <title lang="ms">i-Dusun</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Dusun.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031190000 +0800" stop="20261031193000 +0800">
+    <title lang="ms">Dress My Space</title>
+    <desc lang="ms">Sebuah majalah dekorasi yang akan memilih konsep ringkas dan mempunyai mood yang tersendiri.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031193000 +0800" stop="20261031200000 +0800">
+    <title lang="ms">Trend Hawa</title>
+    <desc lang="ms">Sebuah rancangan yang menampilkan pelbagai kisah kejayaan wanita yang mampu memberikan inspirasi kepada kaum hawa dalam pelbagai bidang dan cabaran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031200000 +0800" stop="20261031203000 +0800">
+    <title lang="ms">Lady Boss</title>
+    <desc lang="ms">Kali ini Liyana Jasmay menjemput seorang lagi tetamu yang akan berkongsi tentang kejayaannya membina empayar perniagaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031203000 +0800" stop="20261031210000 +0800">
+    <title lang="ms">Fashion Fab</title>
+    <desc lang="ms">Sebuah rancangan fesyen menarik untuk tontonan anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031210000 +0800" stop="20261031213000 +0800">
+    <title lang="ms">Akademi Alpha Gen Talents @ KEMAS (Huffaz Cilik)</title>
+    <desc lang="ms">Akademi Alpha Gen Talents @ KEMAS (Huffaz Cilik) merupakan sebuah program realiti anjuran Jabatan Kemajuan Masyarakat (KEMAS) yang bertujuan mencungkil dan mengetengahkan bakat kanak-kanak TABIKA KEMAS berumur lima dan enam tahun dalam bidang hafazan Al-Quran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031213000 +0800" stop="20261031220000 +0800">
+    <title lang="ms">Jaguh Rakan Muda</title>
+    <desc lang="ms">Sebuah program realiti televisyen bercorak sukan lasak dan ketahanan mental yang diterbitkan khusus untuk golongan belia di Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261031220000 +0800" stop="20261101000000 +0800">
+    <title lang="ms">Telemovie: Suamiku Ting Tong</title>
+    <desc lang="ms">Misteri rumahtangga yang awalnya gurauan berakhir dengan kematian. Apakah yang berlaku?</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101000000 +0800" stop="20261101003000 +0800">
+    <title lang="ms">Robozuna</title>
+    <desc lang="ms">Mengisahkan tentang Ariston, seorang budak yatim piatu yang berani dengan ciptaannya, Mangle.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101003000 +0800" stop="20261101010000 +0800">
+    <title lang="ms">Can We Cook</title>
+    <desc lang="ms">Bersama Dato' Fazley Yaakob yang akan menjemput selebriti jemputan untuk berkongsi resepi menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101010000 +0800" stop="20261101013000 +0800">
+    <title lang="ms">The Singing Chef Season 2</title>
+    <desc lang="ms">Bersama Tiah Ridhwani yang akan berkongsi pelbagai resipi menarik bersama tetamu jemputan sambil menyanyi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101013000 +0800" stop="20261101020000 +0800">
+    <title lang="ms">13 Hari Miri - Sibuti</title>
+    <desc lang="ms">Sebuah rancangan yang membawa penonton menyelam di tempat terpilih.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101020000 +0800" stop="20261101023000 +0800">
+    <title lang="ms">Nomad</title>
+    <desc lang="ms">Ikuti kisah pengembaraan ke lokasi menarik Fiza Frizzy dan Ida Yunus di sepanjang perjalanan mereka merentasi Wilayah Eropah Timur.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101023000 +0800" stop="20261101030000 +0800">
+    <title lang="ms">Explore The Scent Holland</title>
+    <desc lang="ms">Perkongsian cef selebriti dan bertukar-tukar resepi bersama cef-cef hebat dan terkenal di negara Belanda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101030000 +0800" stop="20261101040000 +0800">
+    <title lang="ms">P.A Lelaki Kerek</title>
+    <desc lang="ms">Sebuah drama penuh konflik yang menarik untuk tontonan. Melisa mengelak bersemuka dengan Irshad kerana cemburu disebabkan salah sangkanya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101040000 +0800" stop="20261101043000 +0800">
+    <title lang="ms">Bercuti Bersama Sherry</title>
+    <desc lang="ms">Bersama Sherry Al Hadad yang akan bercuti ke pelbagai tempat yang menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101043000 +0800" stop="20261101050000 +0800">
+    <title lang="ms">Trend Hawa</title>
+    <desc lang="ms">Sebuah rancangan yang menampilkan pelbagai kisah kejayaan wanita yang mampu memberikan inspirasi kepada kaum hawa dalam pelbagai bidang dan cabaran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101050000 +0800" stop="20261101060000 +0800">
+    <title lang="ms">Manuskrip Cinta</title>
+    <desc lang="ms">Rian merupakan seorang doktor yang meyewa rumah bersenelahan rumah Dian. Dian merupakan seorang Novelis yang sentiasa mencari idea baru untuk menulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101060000 +0800" stop="20261101060500 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101060500 +0800" stop="20261101063000 +0800">
+    <title lang="ms">Kenyalang Terbang Tinggi</title>
+    <desc lang="ms">Kenyalang Terbang Tinggi menampilkan personaliti yang telah berjaya dan berkongsi kisah kejayaan mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101063000 +0800" stop="20261101073000 +0800">
+    <title lang="ms">STEADEY! 2026</title>
+    <desc lang="ms">Sebuah bual bicara musim terbaru yang akan mengupas pelbagai topik terkini bersama tetamu jemputan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101073000 +0800" stop="20261101080000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101080000 +0800" stop="20261101090000 +0800">
+    <title lang="ms">P.A Lelaki Kerek</title>
+    <desc lang="ms">Sebuah drama penuh konflik yang menarik untuk tontonan. Melisa mengelak bersemuka dengan Irshad kerana cemburu disebabkan salah sangkanya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101090000 +0800" stop="20261101100000 +0800">
+    <title lang="ms">Aku, Dia &amp; Pinky Promise</title>
+    <desc lang="ms">Mengisahkan percintaan seorang gadis yang mengimbau kembali sejarah tersebut sejak zaman persekolahan, pelbagai janji dimeterai dalam percintaan beliau yang dipanggil sebagai Pinky Promise.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101100000 +0800" stop="20261101103000 +0800">
+    <title lang="ms">Santan Cita Rasa Asia</title>
+    <desc lang="ms">Memaparkan pelbagai jenis resipi menarik berasaskan santan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101103000 +0800" stop="20261101104500 +0800">
+    <title lang="ms">i-Kadazan</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Kadazan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101104500 +0800" stop="20261101110000 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101110000 +0800" stop="20261101120000 +0800">
+    <title lang="ms">Fresh Brew 2026</title>
+    <desc lang="ms">Program bual bicara berbahasa Inggeris yang memaparkan pelbagai segmen menarik seperti Animal Diary, Sweet Tooth, Hobby Mania dengan topik perbincangan seperti kesihatan, keluarga dan gaya 3 hidup.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101120000 +0800" stop="20261101123000 +0800">
+    <title lang="ms">Uniknya</title>
+    <desc lang="ms">Sebuah rancangan yang menarik untuk tontonan anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101123000 +0800" stop="20261101130000 +0800">
+    <title lang="ms">Citra Deepavali</title>
+    <desc lang="ms">Sebuah dokumentari yang mengupas makna di sebalik perayaan Deepavali.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101130000 +0800" stop="20261101133000 +0800">
+    <title lang="ms">Weekend Breakaway</title>
+    <desc lang="ms">Rancangan majalah travelog menjelajah tempat-tempat menarik dan unik di dalam Malaysia serta berkongsi rahsia masakan tempatan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101133000 +0800" stop="20261101140000 +0800">
+    <title lang="ms">Destinasi Rumah Bot</title>
+    <desc lang="ms">Berkongsi destinasi-destinasi penginapan yang unik berada di atas air ataupun terapung merangkumi rumah bot, chalet, kapal layar dan sebagainya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101140000 +0800" stop="20261101141500 +0800">
+    <title lang="ms">i-Bajau</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam bahasa etnik Bajau.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101141500 +0800" stop="20261101143000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101143000 +0800" stop="20261101153000 +0800">
+    <title lang="ms">Manuskrip Cinta</title>
+    <desc lang="ms">Rian merupakan seorang doktor yang meyewa rumah bersenelahan rumah Dian. Dian merupakan seorang Novelis yang sentiasa mencari idea baru untuk menulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101153000 +0800" stop="20261101160000 +0800">
+    <title lang="ms">Aksi Tanpa Batas #RevolusiSukanKita</title>
+    <desc lang="ms">Taufiq Hanafi akan menemubual atlet profesional ternama tanah air yang terkenal dengan pencapaian mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101160000 +0800" stop="20261101163000 +0800">
+    <title lang="ms">Yaatra</title>
+    <desc lang="ms">Bersama Venessa Cruz dan Kavitha Sinniah menjelajah ke Kangar, Perlis dengan menunggang Vespa. Ikuti pelbagai aktiviti yang mereka lakukan seperti menanam padi, makan di Capati Labu Sayung, menjelajah Gua Kelam dan Taman Ular.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101163000 +0800" stop="20261101170000 +0800">
+    <title lang="ms">Fascinating Sabah</title>
+    <desc lang="ms">Hos meneroka keunikan yang terdapat di negeri Sabah yang kaya dengan keindahan alam semulajadi, sosiobudaya, gunung ganang, pantai dan mencuba makanan menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101170000 +0800" stop="20261101173000 +0800">
+    <title lang="ms">Renjer Moden</title>
+    <desc lang="ms">Merasai pengalaman renjer hutan dan bagaimana cara ikhtiar hidup di dalam hutan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101173000 +0800" stop="20261101180000 +0800">
+    <title lang="ms">Takraw Warrior</title>
+    <desc lang="ms">Sebuah rancangan animasi yang mengisahkan empat orang sahabat baik yang memiliki minat sukan yang sama iaitu Sepak Takraw.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101180000 +0800" stop="20261101183000 +0800">
+    <title lang="ms">Santai Urban</title>
+    <desc lang="ms">Hana Ismail ini mengetengahkan kepada penonton persembahan makanan yang berbeza, dan lokasi bandar yang menarik pada waktu yang sama.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101183000 +0800" stop="20261101184500 +0800">
+    <title lang="ms">i-Iban</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Iban.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101184500 +0800" stop="20261101190000 +0800">
+    <title lang="ms">i-Dusun</title>
+    <desc lang="ms">Memaparkan perkembangan berita di Sarawak dalam bahasa etnik Dusun.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101190000 +0800" stop="20261101193000 +0800">
+    <title lang="ms">TIGA Abdul La...</title>
+    <desc lang="ms">Sebuah program realiti yang dihoskan oleh Atu Zero, Joe Aziz dan Dewa Arteh yang akan menjemput tetamu beserta cabaran setiap minggu.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101193000 +0800" stop="20261101200000 +0800">
+    <title lang="ms">#ID Idea &amp; Dekor</title>
+    <desc lang="ms">Faizal Zain akan membuat satu transformasi pada dekorasi kediaman selebriti pilihan pada setiap menggunakan elemen-elemen tertentu.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101200000 +0800" stop="20261101203000 +0800">
+    <title lang="ms">A Walk In The Park</title>
+    <desc lang="ms">Ghaneshwaran dalam eksplorasinya untuk melihat keindahan, keunikan dan biokepelbagaian di pelbagai lokasi yang menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101203000 +0800" stop="20261101210000 +0800">
+    <title lang="ms">Diva The Boss</title>
+    <desc lang="ms">Bersama Haneesya Hani yang akan menjemput tetamu jemputan berkongsi pelbagai tips kerjaya dan motivasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101210000 +0800" stop="20261101213000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101213000 +0800" stop="20261101233000 +0800">
+    <title lang="ms">Mencari Mardhatillah</title>
+    <desc lang="ms">Salina merancang untuk menjual harta yang diwarisi oleh orang tuanya dan berhijrah ke Australia untuk melarikan diri dari bekas suaminya, Malek seorang suami yang jahat dan selalu memperalatkan Salina.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261101233000 +0800" stop="20261102000000 +0800">
+    <title lang="ms">Robozuna</title>
+    <desc lang="ms">Mengisahkan tentang Ariston, seorang budak yatim piatu yang berani dengan ciptaannya, Mangle.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102000000 +0800" stop="20261102003000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102003000 +0800" stop="20261102010000 +0800">
+    <title lang="ms">Santan Cita Rasa Asia</title>
+    <desc lang="ms">Memaparkan pelbagai jenis resipi menarik berasaskan santan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102010000 +0800" stop="20261102013000 +0800">
+    <title lang="ms">Weekend Breakaway</title>
+    <desc lang="ms">Rancangan majalah travelog menjelajah tempat-tempat menarik dan unik di dalam Malaysia serta berkongsi rahsia masakan tempatan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102013000 +0800" stop="20261102020000 +0800">
+    <title lang="ms">Destinasi Rumah Bot</title>
+    <desc lang="ms">Berkongsi destinasi-destinasi penginapan yang unik berada di atas air ataupun terapung merangkumi rumah bot, chalet, kapal layar dan sebagainya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102020000 +0800" stop="20261102023000 +0800">
+    <title lang="ms">Santai Urban</title>
+    <desc lang="ms">Hana Ismail ini mengetengahkan kepada penonton persembahan makanan yang berbeza, dan lokasi bandar yang menarik pada waktu yang sama.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102023000 +0800" stop="20261102030000 +0800">
+    <title lang="ms">Fascinating Sabah</title>
+    <desc lang="ms">Hos meneroka keunikan yang terdapat di negeri Sabah yang kaya dengan keindahan alam semulajadi, sosiobudaya, gunung ganang, pantai dan mencuba makanan menarik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102030000 +0800" stop="20261102040000 +0800">
+    <title lang="ms">P.A Lelaki Kerek</title>
+    <desc lang="ms">Sebuah drama penuh konflik yang menarik untuk tontonan. Melisa mengelak bersemuka dengan Irshad kerana cemburu disebabkan salah sangkanya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102040000 +0800" stop="20261102043000 +0800">
+    <title lang="ms">Renjer Moden</title>
+    <desc lang="ms">Merasai pengalaman renjer hutan dan bagaimana cara ikhtiar hidup di dalam hutan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102043000 +0800" stop="20261102050000 +0800">
+    <title lang="ms">#ID Idea &amp; Dekor</title>
+    <desc lang="ms">Faizal Zain akan membuat satu transformasi pada dekorasi kediaman selebriti pilihan pada setiap menggunakan elemen-elemen tertentu.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102050000 +0800" stop="20261102060000 +0800">
+    <title lang="ms">Manuskrip Cinta</title>
+    <desc lang="ms">Rian merupakan seorang doktor yang meyewa rumah bersenelahan rumah Dian. Dian merupakan seorang Novelis yang sentiasa mencari idea baru untuk menulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102060000 +0800" stop="20261102060500 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102060500 +0800" stop="20261102063000 +0800">
+    <title lang="ms">Bukan Biasa-Biasa</title>
+    <desc lang="ms">Memaparkan kejayaan dan kegigihan mereka yang kurang upaya yang berjaya di dalam pelbagai bidang.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102063000 +0800" stop="20261102073000 +0800">
+    <title lang="ms">Fresh Brew 2026</title>
+    <desc lang="ms">Program bual bicara berbahasa Inggeris yang memaparkan pelbagai segmen menarik seperti Animal Diary, Sweet Tooth, Hobby Mania dengan topik perbincangan seperti kesihatan, keluarga dan gaya 3 hidup.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="Okey.my" start="20261102073000 +0800" stop="20261102080000 +0800">
+    <title lang="ms">Klip Video</title>
+    <desc lang="ms">Seleksi klip - klip video terbaik untuk anda.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031080000 +0800" stop="20261031083000 +0800">
+    <title lang="ms">Kapsul Sukan / PSA</title>
+    <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031083000 +0800" stop="20261031090000 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031090000 +0800" stop="20261031093000 +0800">
+    <title lang="ms">Hub Sukan</title>
+    <desc lang="ms">Saksikan sebuah program sukan yang akan membawa pelbagai informasi mengenai sukan-sukan kompetitif dan memahami faktor-faktor tertentu untuk melahirkan juara, bersama pengacara Taufik Hanafi dan personaliti sukan jemputan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031093000 +0800" stop="20261031100000 +0800">
+    <title lang="ms">Game Changer</title>
+    <desc lang="ms">Saksikan majalah sukan Game Changer bersama pengacara Haziq Safwan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031100000 +0800" stop="20261031101500 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031101500 +0800" stop="20261031103500 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031103500 +0800" stop="20261031115000 +0800">
+    <title lang="ms">Siaran Langsung : MOTOGP 2026 Petronas Grand Prix Of Malaysia</title>
+    <desc lang="ms">Saksikan secara langsung MOTOGP 2026 Petronas Grand Prix Of Malaysia (Qualifying) R19 Sesi 1</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031115000 +0800" stop="20261031120000 +0800">
+    <title lang="ms">Kapsul Sukan / PSA</title>
+    <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031120000 +0800" stop="20261031123000 +0800">
+    <title lang="ms">Sungai X-trem</title>
+    <desc lang="ms">Rancangan majalah sukan yg mengetengahkan lokasi sungai-sungai yang mencabar khusus bagi penggemar sukan lasak Water Raffting. Turut menyelitkan panduan keselamatan dan alat keselamatan yang diperlukan ketika berhadapan jeram-jeram merbahaya serta laluan arus deras.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031123000 +0800" stop="20261031160000 +0800">
+    <title lang="ms">Siaran Langsung : MOTOGP 2026 Petronas Grand Prix Of Malaysia</title>
+    <desc lang="ms">Saksikan secara langsung MOTOGP 2026 Petronas Grand Prix Of Malaysia  (QUALIFYING) MOTO3, MOTO2, SPRINT ROUND 19 /SESI 2</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031160000 +0800" stop="20261031161500 +0800">
+    <title lang="ms">Sport Shoot</title>
+    <desc lang="ms">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031161500 +0800" stop="20261031163000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031163000 +0800" stop="20261031173000 +0800">
+    <title lang="ms">Realiti : Rashid Mencari Juara (RMJ)</title>
+    <desc lang="ms">Sebuah rancangan realiti sukan  yang menampilkan legenda badminton negara, Datuk Rashid Sidek, menjelajah ke seluruh Malaysia demi mencari dan menggilap bakat-bakat muda  dalam sukan badminton.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031173000 +0800" stop="20261031180000 +0800">
+    <title lang="ms">Jom Dive Musim 2</title>
+    <desc lang="ms">Memaparkan keindahan pulau, landskap marin di dasar laut, kesalinghubungan dalam kitaran alam semulajadi serta tips selaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031180000 +0800" stop="20261031191500 +0800">
+    <title lang="ms">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="ms">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION (AQUATICS DIVING (M) FINAL)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031191500 +0800" stop="20261031193000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031193000 +0800" stop="20261031204500 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031204500 +0800" stop="20261031210000 +0800">
+    <title lang="ms">Extreme H 2025 Fia Extreme H World Cup</title>
+    <desc lang="ms">Saksikan Extreme H World Cup (Day 3)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031210000 +0800" stop="20261031230000 +0800">
+    <title lang="ms">FIFA ASEAN CUP 2026</title>
+    <desc lang="ms">Saksikan kembali FIFA ASEAN CUP 2026 -  INDONESIA VS MALAYSIA</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031230000 +0800" stop="20261031233000 +0800">
+    <title lang="ms">The Evolution Of Sports</title>
+    <desc lang="ms">Saksikan musim terbaharu dengan pelbagai acara sukan lasak yang penuh aksi yang mencabar.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261031233000 +0800" stop="20261101000000 +0800">
+    <title lang="ms">Ekstrem Adrenalin</title>
+    <desc lang="ms">Meneroka dunia sukan ekstrem di Malaysia dan luar negara dengan pelbagai aktiviti yang menguji ketahanan mental dan fizikal.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101000000 +0800" stop="20261101001500 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101001500 +0800" stop="20261101003000 +0800">
+    <title lang="ms">Padu Fizikal</title>
+    <desc lang="ms">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101003000 +0800" stop="20261101010000 +0800">
+    <title lang="ms">Sungai X-trem</title>
+    <desc lang="ms">Rancangan majalah sukan yg mengetengahkan lokasi sungai-sungai yang mencabar khusus bagi penggemar sukan lasak Water Raffting. Turut menyelitkan panduan keselamatan dan alat keselamatan yang diperlukan ketika berhadapan jeram-jeram merbahaya serta laluan arus deras.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101010000 +0800" stop="20261101013000 +0800">
+    <title lang="ms">Hub Sukan</title>
+    <desc lang="ms">Saksikan sebuah program sukan yang akan membawa pelbagai informasi mengenai sukan-sukan kompetitif dan memahami faktor-faktor tertentu untuk melahirkan juara, bersama pengacara Taufik Hanafi dan personaliti sukan jemputan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101013000 +0800" stop="20261101024500 +0800">
+    <title lang="ms">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="ms">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION (AQUATICS DIVING (M) FINAL)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101024500 +0800" stop="20261101030000 +0800">
+    <title lang="ms">Sport Shoot</title>
+    <desc lang="ms">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101030000 +0800" stop="20261101033000 +0800">
+    <title lang="ms">Jom Dive Musim 2</title>
+    <desc lang="ms">Memaparkan keindahan pulau, landskap marin di dasar laut, kesalinghubungan dalam kitaran alam semulajadi serta tips selaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101033000 +0800" stop="20261101034500 +0800">
+    <title lang="ms">Sport Shoot</title>
+    <desc lang="ms">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101034500 +0800" stop="20261101040000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101040000 +0800" stop="20261101043000 +0800">
+    <title lang="ms">FIFA Stories From The Cities</title>
+    <desc lang="ms">Mengenali Piala Dunia melalui cerita, budaya, dan jiwa setiap bandar serta menghubungkan manusia tanpa mengira sempadan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101043000 +0800" stop="20261101050000 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101050000 +0800" stop="20261101053000 +0800">
+    <title lang="ms">Sunrise To Health</title>
+    <desc lang="ms">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101053000 +0800" stop="20261101060000 +0800">
+    <title lang="ms">Sihat Holistik</title>
+    <desc lang="ms">Menampilkan pelbagai informasi kesihatan dan juga bagaimana membina personaliti yang unggul.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101060000 +0800" stop="20261101060500 +0800">
+    <title lang="ms">Lagu Negaraku/Klip : Setia</title>
+    <desc lang="ms">Lagu Negaraku/Klip : Setia</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101060500 +0800" stop="20261101061500 +0800">
+    <title lang="ms">Kapsul Sukan / PSA</title>
+    <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101061500 +0800" stop="20261101063000 +0800">
+    <title lang="ms">Inovasi Prestasi</title>
+    <desc lang="ms">Sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101063000 +0800" stop="20261101070000 +0800">
+    <title lang="ms">Sunrise To Health</title>
+    <desc lang="ms">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101070000 +0800" stop="20261101073000 +0800">
+    <title lang="ms">Memo Cergas</title>
+    <desc lang="ms">Bersama Norman Hakim, Kit Mah dan tetamu jemputan berkongsi tip mengenai senaman ringkas di rumah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101073000 +0800" stop="20261101074000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Berita Sukan - Stadium RTM</title>
+    <desc lang="ms">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101074000 +0800" stop="20261101080000 +0800">
+    <title lang="ms">Lima-Lima Bersama Aziz Kota</title>
+    <desc lang="ms">Program sembang santai bersama pengamal sukan, jurulatih sukan, atlet dan bekas atlet negara untuk mencungkil kisah dan pengalaman yang belum pihak media war-warkan serta penglibatan awal serta harapan masa hadapan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101080000 +0800" stop="20261101083000 +0800">
+    <title lang="ms">Kapsul Sukan / PSA</title>
+    <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101083000 +0800" stop="20261101090000 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101090000 +0800" stop="20261101100000 +0800">
+    <title lang="ms">Stadium E-Sukan</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada perkembangan ekosistem, komuniti, dan industri e-sukan sama ada di peringkat domestik mahupun antarabangsa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101100000 +0800" stop="20261101103000 +0800">
+    <title lang="ms">Xcamp</title>
+    <desc lang="ms">Bersama hos,Farali Khan dan Shakilla Koriri dalam eksplorasi mereka ke lokasi-lokasi pilihan yang menarik sambil menyahut cabaran aktiviti-aktiviti lasak dan berkhemah di sana.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101103000 +0800" stop="20261101110000 +0800">
+    <title lang="ms">Siaran Langsung : MOTOGP 2026 Petronas Grand Prix Of Malaysia</title>
+    <desc lang="ms">Saksikan secara langsung MOTOGP 2026 Petronas Grand Prix Of Malaysia (RACE DAY) ROUND 19</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101110000 +0800" stop="20261101113500 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101113500 +0800" stop="20261101162000 +0800">
+    <title lang="ms">Siaran Langsung : MOTOGP 2026 Petronas Grand Prix Of Malaysia</title>
+    <desc lang="ms">Saksikan secara langsung MOTOGP 2026 Petronas Grand Prix Of Malaysia (RACE DAY) ROUND 19</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101162000 +0800" stop="20261101163000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101163000 +0800" stop="20261101170000 +0800">
+    <title lang="ms">Jom Dive Musim 2</title>
+    <desc lang="ms">Memaparkan keindahan pulau, landskap marin di dasar laut, kesalinghubungan dalam kitaran alam semulajadi serta tips selaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101170000 +0800" stop="20261101173000 +0800">
+    <title lang="ms">Sungai Ex-Trem</title>
+    <desc lang="ms">Saksikan Sungai Ex-Trem menarik untuk tontonan anda</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101173000 +0800" stop="20261101185000 +0800">
+    <title lang="ms">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="ms">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION (E-SPORTS MOBA S/FINAL)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101185000 +0800" stop="20261101190000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101190000 +0800" stop="20261101192500 +0800">
+    <title lang="ms">MALAYSIAN IN ACTION</title>
+    <desc lang="ms">Saksikan Malaysian In Action - RUGBY 7S (M)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101192500 +0800" stop="20261101193000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101193000 +0800" stop="20261101212500 +0800">
+    <title lang="ms">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="ms">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION (PADEL (M) PAIR QF)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101212500 +0800" stop="20261101213000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101213000 +0800" stop="20261101232500 +0800">
+    <title lang="ms">FIFA ASEAN CUP 2026</title>
+    <desc lang="ms">Saksikan kembali FIFA ASEAN CUP 2026 -  MALAYSIA VS VIETNAM 3rd Place</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101232500 +0800" stop="20261101233000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261101233000 +0800" stop="20261102000000 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102000000 +0800" stop="20261102001500 +0800">
+    <title lang="ms">Sport Shoot</title>
+    <desc lang="ms">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102001500 +0800" stop="20261102003000 +0800">
+    <title lang="ms">Padu Fizikal</title>
+    <desc lang="ms">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102003000 +0800" stop="20261102013000 +0800">
+    <title lang="ms">Stadium E-Sukan</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada perkembangan ekosistem, komuniti, dan industri e-sukan sama ada di peringkat domestik mahupun antarabangsa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102013000 +0800" stop="20261102025000 +0800">
+    <title lang="ms">SUKAN ASIA AICHI - NAGOYA 2026</title>
+    <desc lang="ms">Saksikan SUKAN ASIA AICHI - NAGOYA 2026 : MALAYSIAN ATHLETE IN ACTION (E-SPORTS MOBA S/FINAL)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102025000 +0800" stop="20261102030000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102030000 +0800" stop="20261102040000 +0800">
+    <title lang="ms">Di Antara Emas</title>
+    <desc lang="ms">Memfokuskan kepada pencapaian, perjuangan, dan persediaan atlet negara dalam memburu pingat emas di kejohanan sukan utama.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102040000 +0800" stop="20261102043000 +0800">
+    <title lang="ms">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="ms">Ulangan rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102043000 +0800" stop="20261102044500 +0800">
+    <title lang="ms">Sport Shoot</title>
+    <desc lang="ms">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102044500 +0800" stop="20261102050000 +0800">
+    <title lang="ms">Kapsul RTM Sports</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102050000 +0800" stop="20261102053000 +0800">
+    <title lang="ms">Sunrise To Health</title>
+    <desc lang="ms">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102053000 +0800" stop="20261102060000 +0800">
+    <title lang="ms">Memo Cergas</title>
+    <desc lang="ms">Bersama Norman Hakim, Kit Mah dan tetamu jemputan berkongsi tip mengenai senaman ringkas di rumah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102060000 +0800" stop="20261102060500 +0800">
+    <title lang="ms">Lagu Negaraku/Klip : Setia</title>
+    <desc lang="ms">Lagu Negaraku/Klip : Setia</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102060500 +0800" stop="20261102061500 +0800">
+    <title lang="ms">Kapsul Sukan / PSA</title>
+    <desc lang="ms">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102061500 +0800" stop="20261102063000 +0800">
+    <title lang="ms">Inovasi Prestasi</title>
+    <desc lang="ms">Sebuah program berkonsepkan majalah membawa penonton mengenai impak pembelajaran sains sukan terhadap individu di peringkat pengajian tinggi dan bidang pekerjaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102063000 +0800" stop="20261102070000 +0800">
+    <title lang="ms">Sunrise To Health</title>
+    <desc lang="ms">Majalah ini bertemakan gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat. Pengacara: Kavitha Sidhu</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102070000 +0800" stop="20261102073000 +0800">
+    <title lang="ms">Sihat Holistik</title>
+    <desc lang="ms">Menampilkan pelbagai informasi kesihatan dan juga bagaimana membina personaliti yang unggul.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102073000 +0800" stop="20261102074000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Berita Sukan - Stadium RTM</title>
+    <desc lang="ms">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="SukanRTM.my" start="20261102074000 +0800" stop="20261102080000 +0800">
+    <title lang="ms">Lima-Lima Bersama Aziz Kota</title>
+    <desc lang="ms">Program sembang santai bersama pengamal sukan, jurulatih sukan, atlet dan bekas atlet negara untuk mencungkil kisah dan pengalaman yang belum pihak media war-warkan serta penglibatan awal serta harapan masa hadapan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031080000 +0800" stop="20261031110000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031110000 +0800" stop="20261031113000 +0800">
+    <title lang="ms">Jejak Seribu Kaki</title>
+    <desc lang="ms">Sebuah rancangan berkonsepkan dekorasi rumah untuk orang yang kurang berkemampuan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031113000 +0800" stop="20261031120000 +0800">
+    <title lang="ms">Rona Sabah</title>
+    <desc lang="ms">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031120000 +0800" stop="20261031123000 +0800">
+    <title lang="ms">Ikonita</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda sekeluarga di tv1.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031123000 +0800" stop="20261031130000 +0800">
+    <title lang="ms">Panorama</title>
+    <desc lang="ms">Rancangan berbentuk kemasyarakatan</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031130000 +0800" stop="20261031133000 +0800">
+    <title lang="ms">Berita Tengah Hari</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031133000 +0800" stop="20261031150000 +0800">
+    <title lang="ms">MEMORI: Wau Itu Bulan</title>
+    <desc lang="ms">Telefilem menarik Bisikan Azazil mengisi slot Memori di TV1.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031150000 +0800" stop="20261031150500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031150500 +0800" stop="20261031153000 +0800">
+    <title lang="ms">Rahsia Usia</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda sekeluarga.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031153000 +0800" stop="20261031160000 +0800">
+    <title lang="ms">Innovation Nation</title>
+    <desc lang="ms">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031160000 +0800" stop="20261031160500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031160500 +0800" stop="20261031163000 +0800">
+    <title lang="ms">Pastikan Sahih</title>
+    <desc lang="ms">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031163000 +0800" stop="20261031170000 +0800">
+    <title lang="ms">Travelog Dikir</title>
+    <desc lang="ms">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031170000 +0800" stop="20261031180000 +0800">
+    <title lang="ms">Berita Wilayah</title>
+    <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031180000 +0800" stop="20261031183000 +0800">
+    <title lang="ms">Iqra' 2026</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada pembelajaran Al-Quran (talaqqi) dan bimbingan membaca Al-Quran dengan tajwid yang betul untuk pelbagai peringkat usia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031183000 +0800" stop="20261031184500 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031184500 +0800" stop="20261031194400 +0800">
+    <title lang="ms">WIDURI: Zuriat Dari Penjara</title>
+    <desc lang="ms">Zaman dan Erina diamanahkan menjaga zuriat dari penjara. Zuriat itu adalah dari isteri pertamanya Shara yang dipenjarakan kerana kesalahan mengedar dadah. Dalam episod ini Abang Din telah memberi semua barang Shara pada Zaman. Zaman tidak menyimpan gambar Shara kerana telah memadam semua gambar itu kerana salah anggap pada Shara. Zaman dan Erina berbaik semula dan ingin memulakan hidup baru bersama Rizky. Zaman membawa Erina berjumpa Dato' Wong. Dato' Wong gembira kerana Zaman telah pulang ke pangkuan keluarga. Lakonan Wafariena Roslan, Josiah Hogan, Rasya Dean, Linda Rafar, Syed Aiman, Addam Roslan, Nurul Harisyah,Mubarak Majid, Aliza Rafar, JC Lim.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031194400 +0800" stop="20261031200000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031200000 +0800" stop="20261031203000 +0800">
+    <title lang="ms">Berita Perdana</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031203000 +0800" stop="20261031210000 +0800">
+    <title lang="ms">Malaysia Tonight</title>
+    <desc lang="ms">Bringing the latest updates from across the globe.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031210000 +0800" stop="20261031210300 +0800">
+    <title lang="ms">Diari Junior Innovathon 2026</title>
+    <desc lang="ms">Saksikan Diari Junior Innovathon 2026.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031210300 +0800" stop="20261031223000 +0800">
+    <title lang="ms">Panggung: Tanah Tumpat</title>
+    <desc lang="ms">Saksikan drama Tanah Tumpat dalam slot PANGGUNG di tv1.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031223000 +0800" stop="20261031230000 +0800">
+    <title lang="ms">Jom Pancing</title>
+    <desc lang="ms">Sebuah program travelog yang membawa penonton menjelajah destinasi menarik di Tasik Kenyir sambil mencuba nasib memancing di lubuk rahsia. Turut menampilkan perkongsian pengalaman memancing, sajian ikan hasil tangkapan serta persembahan akustik di penghujung setiap episod.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261031230000 +0800" stop="20261101000000 +0800">
+    <title lang="ms">Diari Rawat</title>
+    <desc lang="ms">Saksikan perbincangan bersama pakar kesihatan dan tetamu undangan dengan isu-isu kesihatan terkini di Diari Rawat.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101000000 +0800" stop="20261101003000 +0800">
+    <title lang="ms">Berita Tengah Malam</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101003000 +0800" stop="20261101013000 +0800">
+    <title lang="ms">Zuriat Dari Penjara</title>
+    <desc lang="ms">Zaman dan Erina diamanahkan menjaga zuriat dari penjara. Zuriat itu adalah dari isteri pertamanya Shara yang dipenjarakan kerana kesalahan mengedar dadah. Dalam episod ini Abang Din telah memberi semua barang Shara pada Zaman. Zaman tidak menyimpan gambar Shara kerana telah memadam semua gambar itu kerana salah anggap pada Shara. Zaman dan Erina berbaik semula dan ingin memulakan hidup baru bersama Rizky. Zaman membawa Erina berjumpa Dato' Wong. Dato' Wong gembira kerana Zaman telah pulang ke pangkuan keluarga. Lakonan Wafariena Roslan, Josiah Hogan, Rasya Dean, Linda Rafar, Syed Aiman, Addam Roslan, Nurul Harisyah,Mubarak Majid, Aliza Rafar, JC Lim.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101013000 +0800" stop="20261101020000 +0800">
+    <title lang="ms">Travelog Dikir</title>
+    <desc lang="ms">Jom mengembara bersama Zul Afkar bersama kumpulan dikir beliau dalam mencari seni-seni tradisi yang terdapat di seluruh Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101020000 +0800" stop="20261101023000 +0800">
+    <title lang="ms">Ikonita</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda sekeluarga di tv1.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101023000 +0800" stop="20261101030000 +0800">
+    <title lang="ms">Jejak Seribu Kaki</title>
+    <desc lang="ms">Sebuah rancangan berkonsepkan dekorasi rumah untuk orang yang kurang berkemampuan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101030000 +0800" stop="20261101033000 +0800">
+    <title lang="ms">Projek R</title>
+    <desc lang="ms">Kisah Mohan seorang pelajar yang lemah dalam mata pelajaran sejarah dan selalu gagal dalam peperiksaan. Cikgu Baharom menasihatinya dan mahu Mohan menulis karangan tentang asal usul keluarganya dan Mohan menyertai Kelab Sejarah, mereka menamakan Kumpulan Rahman sempena huruf pertama nama mereka iaitu Rizal, Ah Mei, Harjit, Mohan, Aina dan Nayon Sapok.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101033000 +0800" stop="20261101052500 +0800">
+    <title lang="ms">Bisikan Azazil</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda sekeluarga.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101052500 +0800" stop="20261101053000 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101053000 +0800" stop="20261101060000 +0800">
+    <title lang="ms">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title>
+    <desc lang="ms">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah. (Azan Subuh : 05:48)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101060000 +0800" stop="20261101060200 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101060200 +0800" stop="20261101070000 +0800">
+    <title lang="ms">Kalam Wahyu (MTHQA) 2025</title>
+    <desc lang="ms">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah dan Hafazan Al-Quran Peringkat Antarabangsa. Hayati bacaan Al-Quran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101070000 +0800" stop="20261101074400 +0800">
+    <title lang="ms">Berita Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101074400 +0800" stop="20261101080000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101080000 +0800" stop="20261101100000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
+    <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101100000 +0800" stop="20261101103000 +0800">
+    <title lang="ms">TV1 KIDS: The Makery</title>
+    <desc lang="ms">Program majalah berkonsepkan seni kanak-kanak berbahasa Inggeris ini menampilkan Nim Odedra yang tinggal di The Makery, sebuah rumah permainan, di mana Nim akan menghasilkan seni kraf yang unik dan menakjubkan, serta makanan yang luar biasa dengan idea yang menginspirasi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101103000 +0800" stop="20261101110000 +0800">
+    <title lang="ms">TV1 KIDS: Miniheroes Of The Forest</title>
+    <desc lang="ms">Program animasi kanak-kanak berbahasa Inggeris ini mengisahkan 4 ekor sahabat iaitu Gaston (Beruang), Jade (Rubah), Gabin (Arnab) dan Juliette (Burung Hantu) yang kesemuanya mempunyai kelebihan luar biasa. Setelah sesi persekolahan tamat, mereka berempat akan mengenakan pakaian adi wira dan memulakan misi pengembaraan di dalam hutan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101110000 +0800" stop="20261101120000 +0800">
+    <title lang="ms">Cuit Sikit Jangan Sentap</title>
+    <desc lang="ms">Cuit Sikit Jangan Sentap sebuah rancangan bual bicara secara langsung yang memberi tumpuan kepada isu-isu generasi muda serta menyentuh nilai-nilai murni dan kerohanian.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101120000 +0800" stop="20261101123000 +0800">
+    <title lang="ms">Tumit Tinggi 2025</title>
+    <desc lang="ms">Tumit Tinggi memaparkan kejayaan dan kehebatan wanita-wanita di Malaysia dalam pelbagai bidang dan kerjaya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101123000 +0800" stop="20261101130000 +0800">
+    <title lang="ms">Kapsul Akademi Alpha Gen@Kemas Huffaz Cilik</title>
+    <desc lang="ms">Sebuah program realiti anjuran KEMAS yang bertujuan untuk mencungkil dan mengetengahkan bakat kanak-kanak dalam bidang hafazan Al-Quran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101130000 +0800" stop="20261101133000 +0800">
+    <title lang="ms">Berita Tengah Hari</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101133000 +0800" stop="20261101150000 +0800">
+    <title lang="ms">Dimensi Legenda</title>
+    <desc lang="ms">Saksikan persembahan daripada artis tanah air dan pengacara hebat Raja Azura.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101150000 +0800" stop="20261101150500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101150500 +0800" stop="20261101153000 +0800">
+    <title lang="ms">Simfoni Alam</title>
+    <desc lang="ms">Dokumentari memaparkan isu hidupan liar dan alam semula jadi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101153000 +0800" stop="20261101160000 +0800">
+    <title lang="ms">Innovation Nation</title>
+    <desc lang="ms">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101160000 +0800" stop="20261101160500 +0800">
+    <title lang="ms">Berita Semasa</title>
+    <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101160500 +0800" stop="20261101163000 +0800">
+    <title lang="ms">Sinei Kita Tok 2026</title>
+    <desc lang="ms">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di dalam Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101163000 +0800" stop="20261101170000 +0800">
+    <title lang="ms">Cabaran Jurutera Muda</title>
+    <desc lang="ms">Bersama pengacara, Azura Zainal menyaksikan para peserta bersaing dalam pertandingan rekacipta kejurusteraan yang menguji kebijaksanaan dan ketangkasan dalam menyelasaikáh masalah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101170000 +0800" stop="20261101180000 +0800">
+    <title lang="ms">Berita Wilayah</title>
+    <desc lang="ms">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101180000 +0800" stop="20261101183000 +0800">
+    <title lang="ms">Agrotek</title>
+    <desc lang="ms">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101183000 +0800" stop="20261101184500 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101184500 +0800" stop="20261101194400 +0800">
+    <title lang="ms">WIDURI: Zuriat Dari Penjara</title>
+    <desc lang="ms">Zaman dan Erina diamanahkan menjaga zuriat dari penjara. Zuriat itu adalah dari isteri pertamanya Shara yang dipenjarakan kerana kesalahan mengedar dadah. Dalam episod ini Abang Din telah memberi semua barang Shara pada Zaman. Zaman tidak menyimpan gambar Shara kerana telah memadam semua gambar itu kerana salah anggap pada Shara. Zaman dan Erina berbaik semula dan ingin memulakan hidup baru bersama Rizky. Zaman membawa Erina berjumpa Dato' Wong. Dato' Wong gembira kerana Zaman telah pulang ke pangkuan keluarga. Lakonan Wafariena Roslan, Josiah Hogan, Rasya Dean, Linda Rafar, Syed Aiman, Addam Roslan, Nurul Harisyah,Mubarak Majid, Aliza Rafar, JC Lim.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101194400 +0800" stop="20261101200000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101200000 +0800" stop="20261101203000 +0800">
+    <title lang="ms">Berita Perdana</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101203000 +0800" stop="20261101210000 +0800">
+    <title lang="ms">Malaysia Tonight</title>
+    <desc lang="ms">Bringing the latest updates from across the globe.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101210000 +0800" stop="20261101230000 +0800">
+    <title lang="ms">SIARAN LANGSUNG: Junior Innovathon</title>
+    <desc lang="ms">Saksikan siaran langsung Junior Innovathon.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101230000 +0800" stop="20261101233000 +0800">
+    <title lang="ms">Rahsia Usia</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda sekeluarga.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261101233000 +0800" stop="20261102000000 +0800">
+    <title lang="ms">Refleksi Aktif</title>
+    <desc lang="ms">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka. Refleksi Aktif pada episod ini akan membawakan tentang Kenal Pasti Bakat (TID).</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102000000 +0800" stop="20261102003000 +0800">
+    <title lang="ms">Berita Tengah Malam</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102003000 +0800" stop="20261102013000 +0800">
+    <title lang="ms">Zuriat Dari Penjara</title>
+    <desc lang="ms">Zaman dan Erina diamanahkan menjaga zuriat dari penjara. Zuriat itu adalah dari isteri pertamanya Shara yang dipenjarakan kerana kesalahan mengedar dadah. Dalam episod ini Abang Din telah memberi semua barang Shara pada Zaman. Zaman tidak menyimpan gambar Shara kerana telah memadam semua gambar itu kerana salah anggap pada Shara. Zaman dan Erina berbaik semula dan ingin memulakan hidup baru bersama Rizky. Zaman membawa Erina berjumpa Dato' Wong. Dato' Wong gembira kerana Zaman telah pulang ke pangkuan keluarga. Lakonan Wafariena Roslan, Josiah Hogan, Rasya Dean, Linda Rafar, Syed Aiman, Addam Roslan, Nurul Harisyah,Mubarak Majid, Aliza Rafar, JC Lim.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102013000 +0800" stop="20261102020000 +0800">
+    <title lang="ms">Etnik Kita</title>
+    <desc lang="ms">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102020000 +0800" stop="20261102023000 +0800">
+    <title lang="ms">Sinei Kita Tok 2026</title>
+    <desc lang="ms">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di dalam Malaysia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102023000 +0800" stop="20261102030000 +0800">
+    <title lang="ms">Cabaran Jurutera Muda</title>
+    <desc lang="ms">Bersama pengacara, Azura Zainal menyaksikan para peserta bersaing dalam pertandingan rekacipta kejurusteraan yang menguji kebijaksanaan dan ketangkasan dalam menyelasaikáh masalah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102030000 +0800" stop="20261102033000 +0800">
+    <title lang="ms">Tumit Tinggi 2025</title>
+    <desc lang="ms">Tumit Tinggi memaparkan kejayaan dan kehebatan wanita-wanita di Malaysia dalam pelbagai bidang dan kerjaya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102033000 +0800" stop="20261102052500 +0800">
+    <title lang="ms">Gambus Rindu</title>
+    <desc lang="ms">Mustakim, seorang pemain gambus terkenal yang berhenti bermain selepas kehilangan isteri dan anak dalam kemalangan. Pertemuannya dengan Atiqah dan rakan-rakan membuka kembali minat terhadap seni gambus, selain mendekatkannya dengan Rashidah. Namun, perasaan Atiqah terhadap Mustakim menimbulkan konflik sebelum kebenaran tentang persamaan wajahnya dengan arwah anak Mustakim terbongkar.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102052500 +0800" stop="20261102053000 +0800">
+    <title lang="ms">Promo / PSA / Kapsul</title>
+    <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102053000 +0800" stop="20261102060000 +0800">
+    <title lang="ms">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title>
+    <desc lang="ms">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah. (Azan Subuh : 05:48)</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102060000 +0800" stop="20261102060200 +0800">
+    <title lang="ms">Lagu Negaraku</title>
+    <desc lang="ms">Nyanyian lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102060200 +0800" stop="20261102063000 +0800">
+    <title lang="ms">Ekplorasi Halal</title>
+    <desc lang="ms">Program Eksplorasi Halal menyingkap isu, proses dan kepentingan pensijilan halal di Malaysia serta memberi pendedahan kepada masyarakat tentang pematuhan standard halal dalam pelbagai industri.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102063000 +0800" stop="20261102070000 +0800">
+    <title lang="ms">Iqra'</title>
+    <desc lang="ms">Sebuah rancangan yang memfokuskan kepada pembelajaran Al-Quran (talaqqi) dan bimbingan membaca Al-Quran dengan tajwid yang betul untuk pelbagai peringkat usia.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102070000 +0800" stop="20261102074400 +0800">
+    <title lang="ms">Berita Pagi</title>
+    <desc lang="ms">Memaparkan perkembangan berita dalam negara.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV1.my" start="20261102074400 +0800" stop="20261102080000 +0800">
+    <title lang="ms">Kanta 744</title>
+    <desc lang="ms">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031080000 +0800" stop="20261031083000 +0800">
+    <title lang="ms">Kenyalang Borneo</title>
+    <desc lang="ms">Siri animasi tempatan mengenai sekumpulan burung sebagai rakan yang diketuai oleh Alang, seekor burung kenyalang yang membantu burung-burung lain apabila mereka menghadapi masalah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031083000 +0800" stop="20261031090000 +0800">
+    <title lang="ms">Kiddo Science</title>
+    <desc lang="ms">Animasi yang mengisahkan 3 kawan baik Cody, Tamy dan Eca. Eca merupakan sebuah robot yang bijak dalam ilmu sains, setiap kali Cody dan Tamy ada persoalan berkaitan Sains, Eca akan menerangkan kepada mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031090000 +0800" stop="20261031093000 +0800">
+    <title lang="ms">Super Dinosaur</title>
+    <desc lang="ms">Max Maximus merancang untuk menggunakan sumber tenaga Dynore bagi menakluk dunia dan Derek bersama Super Dinosaur perlu menggagalkannya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031093000 +0800" stop="20261031100000 +0800">
+    <title lang="ms">Tales Of The Teenage Mutant Ninja Turtles</title>
+    <desc lang="ms">Ikuti pengembaraan Leo, Raph, Donnie dan Mikey dalam menghadapi ancaman baharu yang cuba menghapuskan semua mutan di New York City. Tanpa bantuan antara satu sama lain, setiap penyu perlu bergantung pada kebolehan individu, keberanian, serta keunikan diri masing-masing untuk menewaskan musuh, menyelamatkan keluarga dan bersatu kembali demi melindungi bandar mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031100000 +0800" stop="20261031103000 +0800">
+    <title lang="ms">Inspector Gadget</title>
+    <desc lang="ms">Kisah pengembaraan mendebarkan Inspector Gadget bersama Penny dan Brain dalam usaha menumpaskan rancangan jahat Dr. Claw.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031103000 +0800" stop="20261031110000 +0800">
+    <title lang="ms">Krayon</title>
+    <desc lang="ms">Rancangan kanak-kanak yang menampilkan pelbagai segmen menarik seperti Trivia, Tok! Tok! Siapa Tu?, Cerita Kita! dan kebaBOOM! Serta aktiviti yang penuh dengan ilmu pengetahuan dan hiburan mendidik untuk kanak-kanak.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031110000 +0800" stop="20261031120000 +0800">
+    <title lang="ms">Youn's Kitchen</title>
+    <desc lang="ms">Warga asing yang jatuh cinta dengan makanan Korea di restoran Yoon terus berkunjung dan tugas di dapur menjadi sibuk. Penduduk di kejiranan berhampiran, yang ingin tahu tentang restoran Korea yang unik, datang dan menyambut pekerja dengan mesra.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031120000 +0800" stop="20261031123000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031123000 +0800" stop="20261031130000 +0800">
+    <title lang="ms">World Today</title>
+    <desc lang="ms">World Today, brings you the latest news of national interest and trending international issues.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031130000 +0800" stop="20261031133000 +0800">
+    <title lang="ms">On The Table 2026</title>
+    <desc lang="ms">'On The Table' is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031133000 +0800" stop="20261031150000 +0800">
+    <title lang="ms">Zoom In (Exist)</title>
+    <desc lang="ms">Saksikan kembali persembahan istimewa kumpulan Exists dalam konsert terbitan Unit Hiburan TV, RTM.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031150000 +0800" stop="20261031160000 +0800">
+    <title lang="ms">Vasantham 2026</title>
+    <desc lang="ms">Program bual bicara berbahasa Tamil yang membincangkan isu-isu semasa tanah air.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031160000 +0800" stop="20261031173000 +0800">
+    <title lang="ms">Buddy Into The Wild Season 2</title>
+    <desc lang="ms">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031173000 +0800" stop="20261031180000 +0800">
+    <title lang="ms">Lempeng, Madu &amp; Kambing</title>
+    <desc lang="ms">Kisah kekecohan sekampung apabila Mek Nenab diundang untuk ditemuramah dalam sebuah program televisyen sebagai ikon veteran dan usahawan berjaya di rumahnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031180000 +0800" stop="20261031183000 +0800">
+    <title lang="ms">Inspector Gadget</title>
+    <desc lang="ms">Kisah pengembaraan mendebarkan Inspector Gadget bersama Penny dan Brain dalam usaha menumpaskan rancangan jahat Dr. Claw.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031183000 +0800" stop="20261031190000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031190000 +0800" stop="20261031193000 +0800">
+    <title lang="ms">Diva's Secret</title>
+    <desc lang="ms">Bersama Elaine Kang menjemput tetamu yang terdiri daripada wanita yang berjaya untuk berkongsi rahsia kejayaan dan tips-tips kesihatan yang diamalkan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031193000 +0800" stop="20261031200000 +0800">
+    <title lang="ms">Berita Tamil</title>
+    <desc lang="ms">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031200000 +0800" stop="20261031210000 +0800">
+    <title lang="ms">Gotham II</title>
+    <desc lang="ms">Selina membantu kawan lamanya, Bridgit (yang akhirnya menjadi Firefly). Bridgit mengalami kecederaan teruk dan dianggap mati namun sebenarnya dihantar ke Indian Hill. Lakonan : Ben McKenzie, Donal Logue, David Mazouz, Robin Lord Taylor, Cory Michael Smith dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031210000 +0800" stop="20261031223000 +0800">
+    <title lang="ms">Siaran Langsung - Apresiasi Anugerah Seri Angkasa 2026</title>
+    <desc lang="ms">Saksikan majlis Apresiasi Anugerah Seri Angkasa 2026 dibawa secara langsung di TV2.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261031223000 +0800" stop="20261101003000 +0800">
+    <title lang="ms">Ar-Rahmah</title>
+    <desc lang="ms">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101003000 +0800" stop="20261101013000 +0800">
+    <title lang="ms">Trilogi Cinta</title>
+    <desc lang="ms">Norjinah bekerja sebagai pembantu rumah kepada Razif bagi melarikan diri daripada sikap bapa tirinya, Pak Badar. Razif kemudian berkahwin dengan Norjinah atas amanah arwah isterinya, Salmi. Walaupun perkahwinan mereka sering digugat fitnah Pak Badar, godaan Norseha dan pelbagai konflik keluarga, Norjinah tetap tabah mempertahankan rumah tangga dan cintanya bersama Razif. Lakonan : Rosyam Nor, Fauziah Gous, Amyza Aznan, Siti Fazurina dan raimai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101013000 +0800" stop="20261101020000 +0800">
+    <title lang="ms">Wira Kasih</title>
+    <desc lang="ms">Ain memberi cadangan kepada neneknya untuk membuat kuih dan ikan pekasam untuk dijual. Hasil dari jualan tersebut akan di dermakan kepada adik Amira. Lakonan : Syafie Naswip, Zul Yahya, Zambri Osman, Z. Zambrie dan Dato' Ahmad Tamimi Siregar dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101020000 +0800" stop="20261101030000 +0800">
+    <title lang="ms">Annai Madi</title>
+    <desc lang="ms">Vijay dan Priya menyiasat latar belakang Seetharaman, seorang ahli koperat berjaya yang mungkin terlibat dengan percubaan membunuh Kamala di ladang kelapa sawit pada satu ketika dahulu. Vijay, Priya dan Prema merancang untuk mengambil 'DNA' pada Seetharaman untuk memastikan adakah Priya merupakan anak kandung Seetharaman.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101030000 +0800" stop="20261101040000 +0800">
+    <title lang="ms">I Am Not Me (Wo Bushi Wo)</title>
+    <desc lang="ms">Lin Zhi Yuan, Shen Yun dan Keke merupakan sebuah keluarga bahagia. Namun segala-galanya berubah apabila Keke hilang sewaktu mereka berkelah di tepi sungai. Tujuh tahun kemudian, ketika Zhi Yuan baru ingin berputus asa, mereka dikhabarkan tentang penemuan anak perempuan. Namun, mereka dapati kelakuan anak perempuannya sangat aneh dan mencurigakan. Malah ada yang mengesyaki gadis yang ditemui itu bukan Keke. Lakonan : Steve Yap, Loo Aye Keng, April Chan, Olin Tan dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101040000 +0800" stop="20261101043000 +0800">
+    <title lang="ms">Buih-Buih Kasih</title>
+    <desc lang="ms">Kisah suka duka 3 sekawan yang tinggal serumah iaitu Fazrin yang bekerja sebagai pembantu rumah, Aida bekerja di butik pakaian dan Julia bekerja di kedai alat tulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101043000 +0800" stop="20261101053000 +0800">
+    <title lang="ms">Bintang Pujaan 2009 (Ramlah Ram)</title>
+    <desc lang="ms">Saksikan kembali persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101053000 +0800" stop="20261101060000 +0800">
+    <title lang="ms">Lempeng, Madu &amp; Kambing</title>
+    <desc lang="ms">Kisah kekecohan sekampung apabila Mek Nenab diundang untuk ditemuramah dalam sebuah program televisyen sebagai ikon veteran dan usahawan berjaya di rumahnya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101060000 +0800" stop="20261101060200 +0800">
+    <title lang="ms">Pembukaan - Negaraku</title>
+    <desc lang="ms">Lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101060200 +0800" stop="20261101070000 +0800">
+    <title lang="ms">Bukan Yang Pertama</title>
+    <desc lang="ms">Drama yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101070000 +0800" stop="20261101073000 +0800">
+    <title lang="ms">Silang</title>
+    <desc lang="ms">Kisah Silang, seekor burung helang yang hidup bersama haiwan-haiwan di rimba setelah kematian ibu bapanya.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101073000 +0800" stop="20261101080000 +0800">
+    <title lang="ms">Soccer Bugs</title>
+    <desc lang="ms">Kisah sekumpulan serangga yang sangat meminati sukan bola sepak lalu menubuhkan satu pasukan bola sepak untuk bersaing dengan pasukan lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101080000 +0800" stop="20261101083000 +0800">
+    <title lang="ms">Kenyalang Borneo</title>
+    <desc lang="ms">Siri animasi tempatan mengenai sekumpulan burung sebagai rakan yang diketuai oleh Alang, seekor burung kenyalang yang membantu burung-burung lain apabila mereka menghadapi masalah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101083000 +0800" stop="20261101090000 +0800">
+    <title lang="ms">Kiddo Science</title>
+    <desc lang="ms">Animasi yang mengisahkan 3 kawan baik Cody, Tamy dan Eca. Eca merupakan sebuah robot yang bijak dalam ilmu sains, setiap kali Cody dan Tamy ada persoalan berkaitan Sains, Eca akan menerangkan kepada mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101090000 +0800" stop="20261101093000 +0800">
+    <title lang="ms">Super Dinosaur</title>
+    <desc lang="ms">Sebuah keluarga baru tiba di bandar, sementara Derek dan Super Dinosaur cuba menghalang Tricerachops daripada membebaskan Terraropterx.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101093000 +0800" stop="20261101100000 +0800">
+    <title lang="ms">Tales Of The Teenage Mutant Ninja Turtles</title>
+    <desc lang="ms">Ikuti pengembaraan Leo, Raph, Donnie dan Mikey dalam menghadapi ancaman baharu yang cuba menghapuskan semua mutan di New York City. Tanpa bantuan antara satu sama lain, setiap penyu perlu bergantung pada kebolehan individu, keberanian, serta keunikan diri masing-masing untuk menewaskan musuh, menyelamatkan keluarga dan bersatu kembali demi melindungi bandar mereka.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101100000 +0800" stop="20261101103000 +0800">
+    <title lang="ms">Tangranimals</title>
+    <desc lang="ms">Kisah pengembaraan Geo meneroka planet Tangra, satu tempat yang menakjubkan dengan landskap geometri, bersama rakan-rakannya Tangranimals. Makhluk-makhluk yang lucu ini boleh dihubungkan bersama seperti kepingan Tangram dan boleh berubah menjadi pelbagai jenis kenderaan, makhluk dan objek. Dengan kuasa itu, ditambah pula dengan imaginasi yang baik, Geo dan rakan-rakannya bersedia menghadapi sebarang cabaran.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101103000 +0800" stop="20261101110000 +0800">
+    <title lang="ms">Arkitek Junior</title>
+    <desc lang="ms">Rancangan realiti TV yang memaparkan para arkitek muda menzahirkan idea kreatif mereka dalam bidang seni bina.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101110000 +0800" stop="20261101120000 +0800">
+    <title lang="ms">Australian Survivor (Titans Vs Rebels)</title>
+    <desc lang="ms">24 peserta baharu dibahagikan kepada dua, Titans dan Rebels. Kedua-dua ini akan menentang satu sama lain dan akan mengundi ahli kumpulan yang akan disingkirkan jika kumpulan mereka kalah.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101120000 +0800" stop="20261101123000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101123000 +0800" stop="20261101130000 +0800">
+    <title lang="ms">World Today</title>
+    <desc lang="ms">World Today, brings you the latest news of national interest and trending international issues.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101130000 +0800" stop="20261101133000 +0800">
+    <title lang="ms">Secawan Kopi Seteguk Latte</title>
+    <desc lang="ms">Sitkom yang mengisahkan kehidupan Johari, isterinya Izlyn serta anak mereka Rita yang baharu menamatkan pengajiannya. Mereka mengusahakan sebuah kafe berkonsepkan retro yang turut menampilkan persembahan nyanyian diringi kumpulan buskers. Pelbagai situasi komedi berlaku melibatkan keluarga ini dan para pekerja kafe. Setiap episod turut menampilkan artis jemputan yang mempersembahkan lagu-lagu popular. Lakonan : Roy Azman, Amyza Adnan, Didi Astillah dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101133000 +0800" stop="20261101150000 +0800">
+    <title lang="ms">Zoom In Bersama May</title>
+    <desc lang="ms">Saksikan kembali persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101150000 +0800" stop="20261101160000 +0800">
+    <title lang="ms">What Say You</title>
+    <desc lang="ms">Ikuti perbincangan pelbagai topik berkaitan isu-isu semasa bersama tetamu jemputan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101160000 +0800" stop="20261101173000 +0800">
+    <title lang="ms">Buddy Into The Wild Season 2</title>
+    <desc lang="ms">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101173000 +0800" stop="20261101180000 +0800">
+    <title lang="ms">Sembang Jarak Jauh</title>
+    <desc lang="ms">Mengisahkan tentang gelagat lucu, Tipah dan Ziah yang tinggal di sebuah rumah flat dan gemar berbual dengan suara yang kuat dari jarak jauh sehingga menjadi bualan serta perhatian jiran tetangga. Lakonan : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, Zalif Sidek dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101180000 +0800" stop="20261101183000 +0800">
+    <title lang="ms">Inspector Gadget</title>
+    <desc lang="ms">Kisah pengembaraan mendebarkan Inspector Gadget bersama Penny dan Brain dalam usaha menumpaskan rancangan jahat Dr. Claw.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101183000 +0800" stop="20261101190000 +0800">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101190000 +0800" stop="20261101193000 +0800">
+    <title lang="ms">Diva's Secret</title>
+    <desc lang="ms">Bersama Elaine Kang menjemput tetamu yang terdiri daripada wanita yang berjaya untuk berkongsi rahsia kejayaan dan tips-tips kesihatan yang diamalkan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101193000 +0800" stop="20261101200000 +0800">
+    <title lang="ms">Berita Tamil</title>
+    <desc lang="ms">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101200000 +0800" stop="20261101210000 +0800">
+    <title lang="ms">Gotham II</title>
+    <desc lang="ms">Penguin cuba menyelamatkan ibunya tetapi diperangkap oleh Theo. Nygma secara rasmi mengambil langkah ke arah menjadi Riddler apabila dua personalitinya bersatu. Lakonan : Ben McKenzie, Donal Logue, David Mazouz, Robin Lord Taylor, Cory Michael Smith dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101210000 +0800" stop="20261101233000 +0800">
+    <title lang="ms">Mr Bharath</title>
+    <desc lang="ms">Bharath, seorang pemuda yang dibesarkan oleh ibunya, bertekad membalas dendam terhadap bapanya iaitu Gopinath, seorang ahli perniagaan. Dengan kebijaksanaan dan kerja keras, Bharath memasuki dunia perniagaan untuk menjatuhkan empayar bapanya dan menegakkan maruah ibunya. Lakonan : Rajinikanth, Sathyaraj, Ambika dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261101233000 +0800" stop="20261102000000 +0800">
+    <title lang="ms">Pop Terbaik</title>
+    <desc lang="ms">Saksikan kembali persembahan istimewa artis-artis popular tanah air dalam program hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102000000 +0800" stop="20261102003000 +0800">
+    <title lang="ms">Jangan Ambil Kerja Tuhan</title>
+    <desc lang="ms">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102003000 +0800" stop="20261102013000 +0800">
+    <title lang="ms">Trilogi Cinta</title>
+    <desc lang="ms">Kisah liku-liku kehidupan dan pelbagai konflik keluarga yang ditempuhi oleh Norjinah dan Razif dalam melayari kehidupan rumahtangga. Lakonan : Rosyam Nor, Fauziah Gous, Amyza Aznan dan Siti Fazurina.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102013000 +0800" stop="20261102020000 +0800">
+    <title lang="ms">Wira Kasih</title>
+    <desc lang="ms">Salim berjumpa Latif kerana anaknya tidak berpuas hati. Tok Pa terpaksa campur tangan kerana sudah penat bermusuhan sesama sekampung. Lakonan : Syafie Naswip, Zul Yahya, Zambri Osman, Z. Zambrie dan Dato' Ahmad Tamimi Siregar dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102020000 +0800" stop="20261102030000 +0800">
+    <title lang="ms">Annai Madi</title>
+    <desc lang="ms">Kamala beransur pulih setelah pulang dari hospital. Kesihatannya bertambah baik, namun begitu dia masih tidak dapat bercakap dengan orang lain. Tetapi keadaannya berubah sebaik sahaja melihat wajah Letchumi. Dian mula bercakap dan memorinya kembali pulih.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102030000 +0800" stop="20261102040000 +0800">
+    <title lang="ms">I Am Not Me (Wo Bushi Wo)</title>
+    <desc lang="ms">Lin Zhi Yuan, Shen Yun dan Keke merupakan sebuah keluarga bahagia. Namun segala-galanya berubah apabila Keke hilang sewaktu mereka berkelah di tepi sungai. Tujuh tahun kemudian, ketika Zhi Yuan baru ingin berputus asa, mereka dikhabarkan tentang penemuan anak perempuan. Namun, mereka dapati kelakuan anak perempuannya sangat aneh dan mencurigakan. Malah ada yang mengesyaki gadis yang ditemui itu bukan Keke. Lakonan : Steve Yap, Loo Aye Keng, April Chan, Olin Tan dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102040000 +0800" stop="20261102043000 +0800">
+    <title lang="ms">Buih-Buih Kasih</title>
+    <desc lang="ms">Kisah suka duka 3 sekawan yang tinggal serumah iaitu Fazrin yang bekerja sebagai pembantu rumah, Aida bekerja di butik pakaian dan Julia bekerja di kedai alat tulis.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102043000 +0800" stop="20261102053000 +0800">
+    <title lang="ms">Bintang Pujaan (Hafiz Hamidun)</title>
+    <desc lang="ms">Saksikan kembali persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102053000 +0800" stop="20261102060000 +0800">
+    <title lang="ms">Sembang Jarak Jauh</title>
+    <desc lang="ms">Mengisahkan tentang gelagat lucu, Tipah dan Ziah yang tinggal di sebuah rumah flat dan gemar berbual dengan suara yang kuat dari jarak jauh sehingga menjadi bualan serta perhatian jiran tetangga. Lakonan : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, Zalif Sidek dan ramai lagi.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102060000 +0800" stop="20261102060200 +0800">
+    <title lang="ms">Pembukaan - Negaraku</title>
+    <desc lang="ms">Lagu Negaraku</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102060200 +0800" stop="20261102070000 +0800">
+    <title lang="ms">Bukan Yang Pertama</title>
+    <desc lang="ms">Drama yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102070000 +0800" stop="20261102073000 +0800">
+    <title lang="ms">Misi Ady</title>
+    <desc lang="ms">Ady, Darcy dan Hoopi meneruskan pengembaraan mereka untuk mencari Puteri Jambu. Mereka kemudian berjaya menghidupkan peta ajaib yang diberikan oleh Tok Ketua Kampung untuk membantu mereka mencari lokasi yang mereka kenal pasti.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+  <programme channel="TV2.my" start="20261102073000 +0800" stop="20261102080000 +0800">
+    <title lang="ms">Soccer Bugs</title>
+    <desc lang="ms">Kisah sekumpulan serangga yang sangat meminati sukan bola sepak lalu menubuhkan satu pasukan bola sepak untuk bersaing dengan pasukan lain.</desc>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+  </programme>
+</tv>
