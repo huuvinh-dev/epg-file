@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="epg">
+  <channel id="TaiwanPlusTV.tw">
+    <display-name lang="zh">TaiwanPlus TV</display-name>
+  </channel>
+  <programme channel="TaiwanPlusTV.tw" start="20261128080000 +0800" stop="20261128083000 +0800">
+    <title lang="zh">DC Insiders S3</title>
+    <desc lang="zh">Hosted by Wenchi Yu, DC Insiders explores how U.S. foreign policy shapes the future of Taiwan and Indo-Pacific.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128083000 +0800" stop="20261128090000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128090000 +0800" stop="20261128093000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128093000 +0800" stop="20261128100000 +0800">
+    <title lang="zh">The Chain Maker</title>
+    <desc lang="zh">From Taiwan to the world, The Chain Maker is a flagship program decoding the stories behind AI, chips, finance, and innovation.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128100000 +0800" stop="20261128110000 +0800">
+    <title lang="zh">Come Away With Me</title>
+    <desc lang="zh">Climb towering mountains and explore centuries-old monuments in this journey to all corners of Taiwan.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128110000 +0800" stop="20261128113000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128113000 +0800" stop="20261128120000 +0800">
+    <title lang="zh">Songs of Our Ancestors</title>
+    <desc lang="zh">Songs of Our Ancestors is a new music documentary series that takes a personal journey through Taiwan's Indigenous cultures</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128120000 +0800" stop="20261128130000 +0800">
+    <title lang="zh">Close Your Eyes Before It's Dark</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128130000 +0800" stop="20261128140000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128140000 +0800" stop="20261128143000 +0800">
+    <title lang="zh">DC Insiders S3</title>
+    <desc lang="zh">Hosted by Wenchi Yu, DC Insiders explores how U.S. foreign policy shapes the future of Taiwan and Indo-Pacific.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128143000 +0800" stop="20261128150000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128150000 +0800" stop="20261128151500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128151500 +0800" stop="20261128153000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128153000 +0800" stop="20261128160000 +0800">
+    <title lang="zh">The Chain Maker</title>
+    <desc lang="zh">From Taiwan to the world, The Chain Maker is a flagship program decoding the stories behind AI, chips, finance, and innovation. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128160000 +0800" stop="20261128163000 +0800">
+    <title lang="zh">T-Flash</title>
+    <desc lang="zh">T-Flash is a tech magazine show that discovers what matters and why Taiwan's innovations are making an impact worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128163000 +0800" stop="20261128170000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128170000 +0800" stop="20261128180000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128180000 +0800" stop="20261128181500 +0800">
+    <title lang="zh">For Real With Brandon O'Neal</title>
+    <desc lang="zh">Each episode concludes with Brandon giving back to the locals he encounters along the way.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128181500 +0800" stop="20261128183000 +0800">
+    <title lang="zh">In Case You Missed It</title>
+    <desc lang="zh">Don't miss In Case You Missed It on TaiwanPlus, showcasing the best informative and captivating feature stories from our archives.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128183000 +0800" stop="20261128193000 +0800">
+    <title lang="zh">The Eternal Farm Villages</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128193000 +0800" stop="20261128200000 +0800">
+    <title lang="zh">Songs of Our Ancestors</title>
+    <desc lang="zh">Songs of Our Ancestors is a new music documentary series that takes a personal journey through Taiwan's Indigenous cultures</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128200000 +0800" stop="20261128203000 +0800">
+    <title lang="zh">The Chain Maker</title>
+    <desc lang="zh">From Taiwan to the world, The Chain Maker is a flagship program decoding the stories behind AI, chips, finance, and innovation. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128203000 +0800" stop="20261128213000 +0800">
+    <title lang="zh">Come Away With Me</title>
+    <desc lang="zh">Climb towering mountains and explore centuries-old monuments in this journey to all corners of Taiwan.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128213000 +0800" stop="20261128214500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128214500 +0800" stop="20261128220000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128220000 +0800" stop="20261128221500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128221500 +0800" stop="20261128224500 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128224500 +0800" stop="20261128230000 +0800">
+    <title lang="zh">Taiwan Calling</title>
+    <desc lang="zh">Taiwan Calling is a mini-doc series exploring Taiwan's diverse independent music scene.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261128230000 +0800" stop="20261129000000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129000000 +0800" stop="20261129003000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129003000 +0800" stop="20261129010000 +0800">
+    <title lang="zh">The Chain Maker</title>
+    <desc lang="zh">From Taiwan to the world, The Chain Maker is a flagship program decoding the stories behind AI, chips, finance, and innovation. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129010000 +0800" stop="20261129011500 +0800">
+    <title lang="zh">In Case You Missed It</title>
+    <desc lang="zh">Don't miss In Case You Missed It on TaiwanPlus, showcasing the best informative and captivating feature stories from our archives.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129011500 +0800" stop="20261129013000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129013000 +0800" stop="20261129023000 +0800">
+    <title lang="zh">The Eternal Farm Villages</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129023000 +0800" stop="20261129043000 +0800">
+    <title lang="zh">Taiwan Decides 2026</title>
+    <desc lang="zh">Live coverage and expert analysis of the Nov. 28 local elections.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129043000 +0800" stop="20261129050000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129050000 +0800" stop="20261129053000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129053000 +0800" stop="20261129063000 +0800">
+    <title lang="zh">Come Away With Me</title>
+    <desc lang="zh">Climb towering mountains and explore centuries-old monuments in this journey to all corners of Taiwan.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129063000 +0800" stop="20261129070000 +0800">
+    <title lang="zh">T-Flash</title>
+    <desc lang="zh">T-Flash is a tech magazine show that discovers what matters and why Taiwan's innovations are making an impact worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129070000 +0800" stop="20261129073000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129073000 +0800" stop="20261129074500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129074500 +0800" stop="20261129080000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129080000 +0800" stop="20261129081500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129081500 +0800" stop="20261129083000 +0800">
+    <title lang="zh">Namaste Taiwan S3</title>
+    <desc lang="zh">The first-ever show created for Indian audiences, highlighting the cultural exchanges and influences between Taiwan and India.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129083000 +0800" stop="20261129090000 +0800">
+    <title lang="zh">Correspondents</title>
+    <desc lang="zh">TaiwanPlus News host Louise Watt chats to correspondents around Asia-Pacific for the news behind the news. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129090000 +0800" stop="20261129093000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129093000 +0800" stop="20261129094500 +0800">
+    <title lang="zh">Rebel Artist S2</title>
+    <desc lang="zh">“Rebel Artist” is a documentary series highlighting rising stars in punk, hip hop, and street culture.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129094500 +0800" stop="20261129100000 +0800">
+    <title lang="zh">Taiwan Calling</title>
+    <desc lang="zh">Taiwan Calling is a mini-doc series exploring Taiwan's diverse independent music scene.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129100000 +0800" stop="20261129110000 +0800">
+    <title lang="zh">A Family Travel Series</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129110000 +0800" stop="20261129111500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129111500 +0800" stop="20261129113000 +0800">
+    <title lang="zh">Namaste Taiwan S3</title>
+    <desc lang="zh">The first-ever show created for Indian audiences, highlighting the cultural exchanges and influences between Taiwan and India.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129113000 +0800" stop="20261129120000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129120000 +0800" stop="20261129123000 +0800">
+    <title lang="zh">The Best Place to Have Babies</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129123000 +0800" stop="20261129130000 +0800">
+    <title lang="zh">Taiwan's Dementia Village</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129130000 +0800" stop="20261129140000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129140000 +0800" stop="20261129141500 +0800">
+    <title lang="zh">Taiwan Calling</title>
+    <desc lang="zh">Taiwan Calling is a mini-doc series exploring Taiwan's diverse independent music scene.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129141500 +0800" stop="20261129143000 +0800">
+    <title lang="zh">Namaste Taiwan S3</title>
+    <desc lang="zh">The first-ever show created for Indian audiences, highlighting the cultural exchanges and influences between Taiwan and India.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129143000 +0800" stop="20261129150000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129150000 +0800" stop="20261129151500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129151500 +0800" stop="20261129153000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129153000 +0800" stop="20261129160000 +0800">
+    <title lang="zh">T-Flash</title>
+    <desc lang="zh">T-Flash is a tech magazine show that discovers what matters and why Taiwan's innovations are making an impact worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129160000 +0800" stop="20261129163000 +0800">
+    <title lang="zh">Pedal On</title>
+    <desc lang="zh">This show introduces many different types of cycling routes.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129163000 +0800" stop="20261129170000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129170000 +0800" stop="20261129180000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129180000 +0800" stop="20261129183000 +0800">
+    <title lang="zh">Correspondents</title>
+    <desc lang="zh">TaiwanPlus News host Louise Watt chats to correspondents around Asia-Pacific for the news behind the news. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129183000 +0800" stop="20261129190000 +0800">
+    <title lang="zh">The Best Place to Have Babies</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129190000 +0800" stop="20261129193000 +0800">
+    <title lang="zh">Taiwan's Dementia Village</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129193000 +0800" stop="20261129200000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129200000 +0800" stop="20261129203000 +0800">
+    <title lang="zh">T-Flash</title>
+    <desc lang="zh">T-Flash is a tech magazine show that discovers what matters and why Taiwan's innovations are making an impact worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129203000 +0800" stop="20261129213000 +0800">
+    <title lang="zh">A Family Travel Series</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129213000 +0800" stop="20261129214500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129214500 +0800" stop="20261129220000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129220000 +0800" stop="20261129221500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129221500 +0800" stop="20261129224500 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129224500 +0800" stop="20261129230000 +0800">
+    <title lang="zh">Namaste Taiwan S3</title>
+    <desc lang="zh">The first-ever show created for Indian audiences, highlighting the cultural exchanges and influences between Taiwan and India.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261129230000 +0800" stop="20261130000000 +0800">
+    <title lang="zh">Inside Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130000000 +0800" stop="20261130003000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130003000 +0800" stop="20261130010000 +0800">
+    <title lang="zh">T-Flash</title>
+    <desc lang="zh">T-Flash is a tech magazine show that discovers what matters and why Taiwan's innovations are making an impact worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130010000 +0800" stop="20261130011500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130011500 +0800" stop="20261130013000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130013000 +0800" stop="20261130020000 +0800">
+    <title lang="zh">The Best Place to Have Babies</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130020000 +0800" stop="20261130023000 +0800">
+    <title lang="zh">Taiwan's Dementia Village</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130023000 +0800" stop="20261130030000 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130030000 +0800" stop="20261130031500 +0800">
+    <title lang="zh">Rebel Artist S2</title>
+    <desc lang="zh">“Rebel Artist” is a documentary series highlighting rising stars in punk, hip hop, and street culture.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130031500 +0800" stop="20261130033000 +0800">
+    <title lang="zh">Namaste Taiwan S3</title>
+    <desc lang="zh">The first-ever show created for Indian audiences, highlighting the cultural exchanges and influences between Taiwan and India.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130033000 +0800" stop="20261130040000 +0800">
+    <title lang="zh">Correspondents</title>
+    <desc lang="zh">TaiwanPlus News host Louise Watt chats to correspondents around Asia-Pacific for the news behind the news. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130040000 +0800" stop="20261130041500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130041500 +0800" stop="20261130043000 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130043000 +0800" stop="20261130050000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130050000 +0800" stop="20261130053000 +0800">
+    <title lang="zh">Pedal On</title>
+    <desc lang="zh">This show introduces many different types of cycling routes.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130053000 +0800" stop="20261130063000 +0800">
+    <title lang="zh">A Family Travel Series</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130063000 +0800" stop="20261130070000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130070000 +0800" stop="20261130073000 +0800">
+    <title lang="zh">Taiwan：Unfiltered</title>
+    <desc lang="zh">Taiwan: Unfiltered explores how young Taiwanese navigate social change, systemic challenges, and an uncertain future.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130073000 +0800" stop="20261130074500 +0800">
+    <title lang="zh">Here's What Happened</title>
+    <desc lang="zh">Recap the week's top news stories in our 15-minute newscast. We bring you the most important events from Taiwan and worldwide.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130074500 +0800" stop="20261130080000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130080000 +0800" stop="20261130081500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130081500 +0800" stop="20261130083000 +0800">
+    <title lang="zh">Rebel Artist S2</title>
+    <desc lang="zh">“Rebel Artist” is a documentary series highlighting rising stars in punk, hip hop, and street culture.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130083000 +0800" stop="20261130090000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130090000 +0800" stop="20261130093000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130093000 +0800" stop="20261130094500 +0800">
+    <title lang="zh">Straight to the Source</title>
+    <desc lang="zh">Join our flavorful journey through Taiwan's culinary treasures! From farm to plate, explore ingredient stories.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130094500 +0800" stop="20261130100000 +0800">
+    <title lang="zh">The Jennie Show Podcast</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130100000 +0800" stop="20261130103000 +0800">
+    <title lang="zh">Spirits of Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130103000 +0800" stop="20261130110000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130110000 +0800" stop="20261130111500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130111500 +0800" stop="20261130113000 +0800">
+    <title lang="zh">Rebel Artist S2</title>
+    <desc lang="zh">“Rebel Artist” is a documentary series highlighting rising stars in punk, hip hop, and street culture.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130113000 +0800" stop="20261130120000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130120000 +0800" stop="20261130123000 +0800">
+    <title lang="zh">Top of the Wave</title>
+    <desc lang="zh">"Top of the Wave” is a documentary series that follows Taiwan’s surfing culture and the spirit of its young generation.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130123000 +0800" stop="20261130130000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130130000 +0800" stop="20261130140000 +0800">
+    <title lang="zh">Come Away With Me</title>
+    <desc lang="zh">Climb towering mountains and explore centuries-old monuments in this journey to all corners of Taiwan.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130140000 +0800" stop="20261130141500 +0800">
+    <title lang="zh">What's Up Taiwan Weekend Edition </title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130141500 +0800" stop="20261130143000 +0800">
+    <title lang="zh">Rebel Artist S2</title>
+    <desc lang="zh">“Rebel Artist” is a documentary series highlighting rising stars in punk, hip hop, and street culture.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130143000 +0800" stop="20261130144500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130144500 +0800" stop="20261130150000 +0800">
+    <title lang="zh">Taiwan Top5 S2</title>
+    <desc lang="zh">Taiwan, ranked: get the (semi-)official breakdown of all the country has to offer.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130150000 +0800" stop="20261130153000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130153000 +0800" stop="20261130160000 +0800">
+    <title lang="zh">Spirits of Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130160000 +0800" stop="20261130163000 +0800">
+    <title lang="zh">Correspondents</title>
+    <desc lang="zh">TaiwanPlus News host Louise Watt chats to correspondents around Asia-Pacific for the news behind the news. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130163000 +0800" stop="20261130170000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130170000 +0800" stop="20261130173000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130173000 +0800" stop="20261130180000 +0800">
+    <title lang="zh">Slow Steps</title>
+    <desc lang="zh">Slow Steps is a mini travel series exploring some of Taiwan’s most popular destinations</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130180000 +0800" stop="20261130183000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130183000 +0800" stop="20261130184500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130184500 +0800" stop="20261130193000 +0800">
+    <title lang="zh">Linking 368 Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130193000 +0800" stop="20261130200000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130200000 +0800" stop="20261130201500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130201500 +0800" stop="20261130205500 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130205500 +0800" stop="20261130210000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130210000 +0800" stop="20261130211500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130211500 +0800" stop="20261130213000 +0800">
+    <title lang="zh">Taiwan Top5 S2</title>
+    <desc lang="zh">Taiwan, ranked: get the (semi-)official breakdown of all the country has to offer.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130213000 +0800" stop="20261130220000 +0800">
+    <title lang="zh">Spirits of Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130220000 +0800" stop="20261130221500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130221500 +0800" stop="20261130225500 +0800">
+    <title lang="zh">Slow Steps</title>
+    <desc lang="zh">Slow Steps is a mini travel series exploring some of Taiwan’s most popular destinations</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130225500 +0800" stop="20261130230000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130230000 +0800" stop="20261130231500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130231500 +0800" stop="20261130233000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261130233000 +0800" stop="20261201000000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201000000 +0800" stop="20261201003000 +0800">
+    <title lang="zh">Correspondents</title>
+    <desc lang="zh">TaiwanPlus News host Louise Watt chats to correspondents around Asia-Pacific for the news behind the news. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201003000 +0800" stop="20261201010000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201010000 +0800" stop="20261201011500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201011500 +0800" stop="20261201013000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201013000 +0800" stop="20261201015500 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201015500 +0800" stop="20261201020000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201020000 +0800" stop="20261201023000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201023000 +0800" stop="20261201033000 +0800">
+    <title lang="zh">Come Away With Me</title>
+    <desc lang="zh">Climb towering mountains and explore centuries-old monuments in this journey to all corners of Taiwan.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201033000 +0800" stop="20261201040000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201040000 +0800" stop="20261201043000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201043000 +0800" stop="20261201050000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201050000 +0800" stop="20261201053000 +0800">
+    <title lang="zh">The Taipei Tonight Show S4</title>
+    <desc lang="zh">Each episode of the show interviews different guests, artists, and singers from various industries. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201053000 +0800" stop="20261201060000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201060000 +0800" stop="20261201063000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201063000 +0800" stop="20261201064500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201064500 +0800" stop="20261201070000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201070000 +0800" stop="20261201073000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201073000 +0800" stop="20261201080000 +0800">
+    <title lang="zh">Generation Why</title>
+    <desc lang="zh">Gen Z hosts and guests explore the social trends shaping Taiwan—and what they reveal about a changing world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201080000 +0800" stop="20261201083000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201083000 +0800" stop="20261201090000 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201090000 +0800" stop="20261201093000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201093000 +0800" stop="20261201100000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201100000 +0800" stop="20261201103000 +0800">
+    <title lang="zh">Viva La Vita</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201103000 +0800" stop="20261201110000 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201110000 +0800" stop="20261201113000 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201113000 +0800" stop="20261201120000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201120000 +0800" stop="20261201123000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201123000 +0800" stop="20261201130000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201130000 +0800" stop="20261201140000 +0800">
+    <title lang="zh">A Family Travel Series</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201140000 +0800" stop="20261201143000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201143000 +0800" stop="20261201144500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201144500 +0800" stop="20261201150000 +0800">
+    <title lang="zh">Taiwan Top5 S2</title>
+    <desc lang="zh">Taiwan, ranked: get the (semi-)official breakdown of all the country has to offer.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201150000 +0800" stop="20261201153000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201153000 +0800" stop="20261201160000 +0800">
+    <title lang="zh">Viva La Vita</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201160000 +0800" stop="20261201163000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201163000 +0800" stop="20261201170000 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201170000 +0800" stop="20261201173000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201173000 +0800" stop="20261201180000 +0800">
+    <title lang="zh">Pedal On</title>
+    <desc lang="zh">This show introduces many different types of cycling routes.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201180000 +0800" stop="20261201183000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201183000 +0800" stop="20261201184500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201184500 +0800" stop="20261201193000 +0800">
+    <title lang="zh">Linking 368 Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201193000 +0800" stop="20261201200000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201200000 +0800" stop="20261201201500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201201500 +0800" stop="20261201205500 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201205500 +0800" stop="20261201210000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201210000 +0800" stop="20261201211500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201211500 +0800" stop="20261201213000 +0800">
+    <title lang="zh">Taiwan Top5 S2</title>
+    <desc lang="zh">Taiwan, ranked: get the (semi-)official breakdown of all the country has to offer.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201213000 +0800" stop="20261201220000 +0800">
+    <title lang="zh">Viva La Vita</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201220000 +0800" stop="20261201221500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201221500 +0800" stop="20261201225500 +0800">
+    <title lang="zh">Pedal On</title>
+    <desc lang="zh">This show introduces many different types of cycling routes.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201225500 +0800" stop="20261201230000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201230000 +0800" stop="20261201231500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201231500 +0800" stop="20261201233000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261201233000 +0800" stop="20261202000000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202000000 +0800" stop="20261202003000 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202003000 +0800" stop="20261202010000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202010000 +0800" stop="20261202011500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202011500 +0800" stop="20261202013000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202013000 +0800" stop="20261202015500 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202015500 +0800" stop="20261202020000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202020000 +0800" stop="20261202023000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202023000 +0800" stop="20261202033000 +0800">
+    <title lang="zh">A Family Travel Series</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202033000 +0800" stop="20261202040000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202040000 +0800" stop="20261202043000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202043000 +0800" stop="20261202050000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202050000 +0800" stop="20261202053000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202053000 +0800" stop="20261202060000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202060000 +0800" stop="20261202063000 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202063000 +0800" stop="20261202064500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202064500 +0800" stop="20261202070000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202070000 +0800" stop="20261202073000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202073000 +0800" stop="20261202080000 +0800">
+    <title lang="zh">Satoyama: Wild Neighbors</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202080000 +0800" stop="20261202083000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202083000 +0800" stop="20261202090000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202090000 +0800" stop="20261202093000 +0800">
+    <title lang="zh">Taiwan Comic Universe</title>
+    <desc lang="zh">“Taiwan Comic Universe” follows Taiwanese comic book artists as they try to take their unique art styles global.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202093000 +0800" stop="20261202100000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202100000 +0800" stop="20261202103000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202103000 +0800" stop="20261202110000 +0800">
+    <title lang="zh">City Escape S2</title>
+    <desc lang="zh">Twelve episodes highlight themed routes, aiming to inspire viewers to escape urban life and plan their next outdoor adventure.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202110000 +0800" stop="20261202113000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202113000 +0800" stop="20261202120000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202120000 +0800" stop="20261202123000 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202123000 +0800" stop="20261202130000 +0800">
+    <title lang="zh">Taiwan Comic Universe</title>
+    <desc lang="zh">“Taiwan Comic Universe” follows Taiwanese comic book artists as they try to take their unique art styles global.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202130000 +0800" stop="20261202140000 +0800">
+    <title lang="zh">The Eternal Farm Villages</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202140000 +0800" stop="20261202143000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202143000 +0800" stop="20261202144500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202144500 +0800" stop="20261202150000 +0800">
+    <title lang="zh">Taiwan Calling</title>
+    <desc lang="zh">Taiwan Calling is a mini-doc series exploring Taiwan's diverse independent music scene.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202150000 +0800" stop="20261202153000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202153000 +0800" stop="20261202160000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202160000 +0800" stop="20261202163000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202163000 +0800" stop="20261202170000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202170000 +0800" stop="20261202173000 +0800">
+    <title lang="zh">Taiwan Comic Universe</title>
+    <desc lang="zh">“Taiwan Comic Universe” follows Taiwanese comic book artists as they try to take their unique art styles global.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202173000 +0800" stop="20261202180000 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202180000 +0800" stop="20261202183000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202183000 +0800" stop="20261202184500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202184500 +0800" stop="20261202193000 +0800">
+    <title lang="zh">Linking 368 Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202193000 +0800" stop="20261202200000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202200000 +0800" stop="20261202201500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202201500 +0800" stop="20261202205500 +0800">
+    <title lang="zh">City Escape S2</title>
+    <desc lang="zh">Twelve episodes highlight themed routes, aiming to inspire viewers to escape urban life and plan their next outdoor adventure.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202205500 +0800" stop="20261202210000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202210000 +0800" stop="20261202211500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202211500 +0800" stop="20261202213000 +0800">
+    <title lang="zh">Taiwan Calling</title>
+    <desc lang="zh">Taiwan Calling is a mini-doc series exploring Taiwan's diverse independent music scene.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202213000 +0800" stop="20261202220000 +0800">
+    <title lang="zh">Penghu Stone Weir</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202220000 +0800" stop="20261202221500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202221500 +0800" stop="20261202225500 +0800">
+    <title lang="zh">Hidden Gem Taiwan</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202225500 +0800" stop="20261202230000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202230000 +0800" stop="20261202231500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202231500 +0800" stop="20261202233000 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261202233000 +0800" stop="20261203000000 +0800">
+    <title lang="zh">Taiwan Comic Universe</title>
+    <desc lang="zh">“Taiwan Comic Universe” follows Taiwanese comic book artists as they try to take their unique art styles global.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203000000 +0800" stop="20261203003000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203003000 +0800" stop="20261203010000 +0800">
+    <title lang="zh">Botanical Wonders</title>
+    <desc lang="zh">Join plant biologist Trevor Padgett and chef and amateur plant enthusiast Jason Wang as they explore Taiwan’s unique plants.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203010000 +0800" stop="20261203011500 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 15-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203011500 +0800" stop="20261203013000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203013000 +0800" stop="20261203015500 +0800">
+    <title lang="zh">City Escape S2</title>
+    <desc lang="zh">Twelve episodes highlight themed routes, aiming to inspire viewers to escape urban life and plan their next outdoor adventure.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203015500 +0800" stop="20261203020000 +0800">
+    <title lang="zh">Eye on the Weather</title>
+    <desc lang="zh">Bringing you the latest on weather in Taiwan and around the world.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203020000 +0800" stop="20261203023000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203023000 +0800" stop="20261203033000 +0800">
+    <title lang="zh">The Eternal Farm Villages</title>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203033000 +0800" stop="20261203040000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203040000 +0800" stop="20261203043000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203043000 +0800" stop="20261203050000 +0800">
+    <title lang="zh">Taiwan Comic Universe</title>
+    <desc lang="zh">“Taiwan Comic Universe” follows Taiwanese comic book artists as they try to take their unique art styles global.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203050000 +0800" stop="20261203053000 +0800">
+    <title lang="zh">Taiwan Talks</title>
+    <desc lang="zh">Taiwan Talks, our flagship current affairs program, analyzes the latest global developments from a Taiwan perspective.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203053000 +0800" stop="20261203060000 +0800">
+    <title lang="zh">TaiwanPlus News </title>
+    <desc lang="zh">Get the latest news and analysis from Taiwan and the world in our 30-minute flagship program.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203060000 +0800" stop="20261203063000 +0800">
+    <title lang="zh">City Escape S2</title>
+    <desc lang="zh">Twelve episodes highlight themed routes, aiming to inspire viewers to escape urban life and plan their next outdoor adventure.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203063000 +0800" stop="20261203064500 +0800">
+    <title lang="zh">Zoom In, Zoom Out</title>
+    <desc lang="zh">Zoom in on the news with people who are impacting Taiwan and the world. </desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203064500 +0800" stop="20261203070000 +0800">
+    <title lang="zh">Explore With Mandarin Radicals</title>
+    <desc lang="zh">Explore With Mandarin Radicals teaches Chinese language and culture through travel, interaction, and hands-on activities.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203070000 +0800" stop="20261203073000 +0800">
+    <title lang="zh">What's Up Taiwan!</title>
+    <desc lang="zh">Catch the latest from Taiwan in our 30-minute newscast.</desc>
+  </programme>
+  <programme channel="TaiwanPlusTV.tw" start="20261203073000 +0800" stop="20261203080000 +0800">
+    <title lang="zh">Shipwrecks Taiwan</title>
+  </programme>
+</tv>
