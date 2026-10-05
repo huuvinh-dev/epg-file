@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="s_mxtv_jp">
+  <channel id="TokyoMX1.jp">
+    <display-name lang="ja">Tokyo MX1</display-name>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </channel>
+  <channel id="TokyoMX2.jp">
+    <display-name lang="ja">Tokyo MX2</display-name>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </channel>
+  <programme channel="TokyoMX1.jp" start="20261107040000 +0800" stop="20261107043000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107043000 +0800" stop="20261107050000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107050000 +0800" stop="20261107053000 +0800">
+    <title lang="zh">田村亮の釣りならまかせろ！ ★五目</title>
+    <desc lang="zh">何が釣れるかお楽しみ！海釣り公園ならまかせろ！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107053000 +0800" stop="20261107060000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107060000 +0800" stop="20261107063000 +0800">
+    <title lang="zh">湯ったり温泉バラエティ 原田龍二の日本全国！湯一無二 ★北海道スペシャル第１弾【再】</title>
+    <desc lang="zh">原田龍二が個性豊かなスタッフたちと日本全国の絶景秘湯を目指す冒険バラエティ！誰も知らない、湯一無二の温泉をお届けします。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107063000 +0800" stop="20261107070000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107070000 +0800" stop="20261107073000 +0800">
+    <title lang="zh">霜降り明星せいやのスーパーキングＴＶ ★パンサー尾形代打ＭＣ２回目！登山企画も後編へ</title>
+    <desc lang="zh">代打ＭＣのパンサー尾形とお送りするフースーヤ八ヶ岳登山の後編▼恒例の弁当タイム！フースーヤ谷口の斬新弁当に絶句？▼途中でコアラも出現？果たして登頂なるか</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107073000 +0800" stop="20261107074500 +0800">
+    <title lang="zh">Ｄｏ！Ｆｉｓｈｉｎｇ ★～魚種多彩！興奮の東京湾ルアーフィッシング～</title>
+    <desc lang="zh">関西を中心に情報を発信してきたアングラー村上晴彦が関東上陸。最先端のルアーフィッシングを紹介します。理論と実践に裏打ちされたテクニックが満載！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107074500 +0800" stop="20261107080000 +0800">
+    <title lang="zh">比叡の光</title>
+    <desc lang="zh">挑戦、その先にあるもの①</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107080000 +0800" stop="20261107090000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107090000 +0800" stop="20261107095500 +0800">
+    <title lang="zh">祭りの形 ～三重に受け継がれる華～ ★石取祭の“祭車”</title>
+    <desc lang="zh">鉦や太鼓の音が響く石取祭▼祭りを支える人々の誇りと情熱▼世代を超えて受け継がれる地域の絆を描く▼足立梨花ほか</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107095500 +0800" stop="20261107100000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107100000 +0800" stop="20261107103000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107103000 +0800" stop="20261107110000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107110000 +0800" stop="20261107110500 +0800">
+    <title lang="zh">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title>
+    <desc lang="zh">東京の様々なニュースをお伝えします。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107110500 +0800" stop="20261107120000 +0800">
+    <title lang="zh">よしもと新喜劇</title>
+    <desc lang="zh">すち子の、湧き水フィーバーにワックワク！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107120000 +0800" stop="20261107123000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107123000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107130000 +0800" stop="20261107133000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107133000 +0800" stop="20261107140000 +0800">
+    <title lang="zh">錦鯉が行く！のりのり散歩【字】</title>
+    <desc lang="zh">「東区役所エリア編」＃４</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107140000 +0800" stop="20261107143000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107143000 +0800" stop="20261107145900 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107145900 +0800" stop="20261107150000 +0800">
+    <title lang="zh">イベントガイド</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107150000 +0800" stop="20261107153000 +0800">
+    <title lang="zh">吉田類の酒場放浪記</title>
+    <desc lang="zh">新御徒町「まこつ」／小田原「居酒屋 こへじ」</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107153000 +0800" stop="20261107160000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107160000 +0800" stop="20261107165500 +0800">
+    <title lang="zh">【生】田村淳のキキタイ！ ★映画は結末を知ってから 今の若者は失敗したくない症候群？</title>
+    <desc lang="zh">映画は結末を知ってから…今の若者は『失敗したくない症候群』？▼田村淳／中村仁美▼精神科医Ｔｏｍｙ／芝浦工業大学教授 原田曜平／社会学者 古市憲寿／榎本ゆいな</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107165500 +0800" stop="20261107170000 +0800">
+    <title lang="zh">ＴＯＫＹＯ ＭＸ ＮＥＷＳ</title>
+    <desc lang="zh">東京の様々なニュースをお伝えします。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107170000 +0800" stop="20261107173000 +0800">
+    <title lang="zh">サバンナ高橋の、サウナの神さま ★ゲスト／峯田和伸（銀杏ＢＯＹＺ）後編</title>
+    <desc lang="zh">今回“ととのう”ゲストは前回に引き続き、銀杏ＢＯＹＺの峯田和伸さん。▼「ニルヴァーナ」を聞いた高１からずっと夢の中？▼いま気になるアーティストは「ＢＯＯＷＹ」？</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107173000 +0800" stop="20261107180000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107180000 +0800" stop="20261107190000 +0800">
+    <title lang="zh">トウキョウもっともっと！元気計画研究所 ★もっと江戸・東京の魅力を知ってもらう！</title>
+    <desc lang="zh">東所長率いる「トウキョウもっともっと！元気計画研究所」。今回のテーマは「もっと江戸・東京の魅力を知ってもらうために！」。そのための方法を提案します！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107190000 +0800" stop="20261107193000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107193000 +0800" stop="20261107200000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107200000 +0800" stop="20261107203000 +0800">
+    <title lang="zh">ドラマ「おいしい給食 ｓｅａｓｏｎ４」 ★第３話「南海の青軍曹 グルクン」【再】【字】</title>
+    <desc lang="zh">９０年代。給食マニアの教師と生徒による、どちらが給食を「おいしく食べるか」という闘いを描いた究極の「食ドラ」。沖縄を舞台に、さらにスケールアップした物語が開幕！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107203000 +0800" stop="20261107210000 +0800">
+    <title lang="zh">音ボケＰＯＰＳ ★ゲストには、ＢＥＮＩが登場！突撃コーナーには原田知世が登場！</title>
+    <desc lang="zh">今週は、ＩＭＡＬＵ、大地洋輔（ダイノジ）、相楽伊織、宇井優良梨（ＧＥＮＩＣ）がゲストに旬なアーティストをお招きし、それぞれの音楽性や人間性を深掘りしていきます！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107210000 +0800" stop="20261107213000 +0800">
+    <title lang="zh">転生した大聖女は、聖女であることをひた隠す ＃６「黒き王の捕獲作戦」</title>
+    <desc lang="zh">規格外の力を持った少女が巻き起こす前世ひた隠しファンタジー開幕！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107213000 +0800" stop="20261107220000 +0800">
+    <title lang="zh">野生のラスボスが現れた！ ＃１８「十二星天サジタリウスが現れた！」</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107220000 +0800" stop="20261107223000 +0800">
+    <title lang="zh">２２／７計算外 ｓｅａｓｏｎ３</title>
+    <desc lang="zh">秋元康が総合プロデュースするデジタル声優アイドル、２２／７（ナナブンノニジュウニ）の冠番組！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107223000 +0800" stop="20261107230000 +0800">
+    <title lang="zh">バーテックスフォース ＃６「間違いじゃない」【字】</title>
+    <desc lang="zh">「ストライクウィッチーズ」「ビビッドレッド・オペレーション」の高村和宏監督が満を持しておくる、完全新作オリジナルＴＶアニメ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107230000 +0800" stop="20261107233000 +0800">
+    <title lang="zh">マジカル★エクスプローラー ＃６「風雲！ギョブリン城」</title>
+    <desc lang="zh">憧れのゲーム世界を自由気ままに謳歌する転生魔術学園譚！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261107233000 +0800" stop="20261108000000 +0800">
+    <title lang="zh">生徒会にも穴はある！ ＃６「やっちゃった」「梅と先生」「こまろの世界」</title>
+    <desc lang="zh">留年を回避するため水之江梅が入った生徒会は、何やら変わった子たちが勢揃い！個性豊かな仲間と紡ぐ、ドタバタ賑やかな日々が待ち受けていた！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108000000 +0800" stop="20261108003000 +0800">
+    <title lang="zh">【新】「きみが死ぬまで恋をしたい」セレクション放送 ＃１「キス」</title>
+    <desc lang="zh">どんな現実が訪れようとも、生きていく。これはそんな少女たちが見つける、あどけない願いの物語。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108003000 +0800" stop="20261108010000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108010000 +0800" stop="20261108013000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108013000 +0800" stop="20261108020000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108020000 +0800" stop="20261108023000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108023000 +0800" stop="20261108030000 +0800">
+    <title lang="zh">日本のチカラ【字】</title>
+    <desc lang="zh">まきうち夫婦の全力人生 ～山のスーパー繁盛記～</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108030000 +0800" stop="20261108033000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX1.jp" start="20261108033000 +0800" stop="20261108040000 +0800">
+    <title lang="zh">お買い物情報</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107040000 +0800" stop="20261107050000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">浪漫点描 散歩の風景 初夏１</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107050000 +0800" stop="20261107060000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">水と自然と雑貨屋さん</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107060000 +0800" stop="20261107063000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107063000 +0800" stop="20261107064500 +0800">
+    <title lang="zh">鎧勇騎 月兎 ★総集編再＃１１</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107064500 +0800" stop="20261107070000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">Ｐａｒｋ Ｌｉｆｅ～犬と、風のある午後～</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107070000 +0800" stop="20261107073000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107073000 +0800" stop="20261107080000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107080000 +0800" stop="20261107083000 +0800">
+    <title lang="zh">宝塚カフェブレイク ★瀬央ゆりあがゲストに縣千を迎えその魅力を引き出す回です【再】</title>
+    <desc lang="zh">東京宝塚劇場公演『ポーの一族』に出演した瀬央ゆりあが縣千をゲストに迎え、その魅力を存分に引き出します。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107083000 +0800" stop="20261107090000 +0800">
+    <title lang="zh">Ｇｏｏｄ Ｌｕｃｋ！ ★オリンピックメダリスト 松田丈志 登場！</title>
+    <desc lang="zh">芹澤名人、三浦桃香プロが、ゲストを交えて真剣プレーと楽しいトークを展開！また、ジュニアゴルファーに夢と希望を与える取り組みも行っていきます。レッスンコーナーも！</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107090000 +0800" stop="20261107093000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107093000 +0800" stop="20261107100000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">路面電車のある風景 その２</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107100000 +0800" stop="20261107103000 +0800">
+    <title lang="zh">パンプキン・シザーズ ＃１４「焔、いまだ消えず」【再】</title>
+    <desc lang="zh">“戦災”という名のもう一つの戦争ーー。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107103000 +0800" stop="20261107110000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">散歩の風景 池上線の通る街角</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107110000 +0800" stop="20261107110500 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">散歩の風景 北総</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107110500 +0800" stop="20261107113000 +0800">
+    <title lang="zh">ごりやくさん【再】【字】</title>
+    <desc lang="zh">総集編（１－５）</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107113000 +0800" stop="20261107120000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107120000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">東京の伝統工芸篇</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107130000 +0800" stop="20261107130500 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">東京点描 城西２</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107130500 +0800" stop="20261107133000 +0800">
+    <title lang="zh">ごりやくさん【再】【字】</title>
+    <desc lang="zh">宇都宮二荒山神社</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107133000 +0800" stop="20261107140000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107140000 +0800" stop="20261107143800 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">にゃんタレＭｏｖｉｅ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107143800 +0800" stop="20261107150000 +0800">
+    <title lang="zh">ごりやくさん【再】【字】</title>
+    <desc lang="zh">霧島神宮</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107150000 +0800" stop="20261107153000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107153000 +0800" stop="20261107153800 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">浪漫点描 旅する言葉</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107153800 +0800" stop="20261107160000 +0800">
+    <title lang="zh">日本ふるさと百景【字】</title>
+    <desc lang="zh">埼玉編２</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107160000 +0800" stop="20261107163000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107163000 +0800" stop="20261107163800 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">路面電車のある風景 その１</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107163800 +0800" stop="20261107170000 +0800">
+    <title lang="zh">ごりやくさん【再】【字】</title>
+    <desc lang="zh">富士山本宮浅間大社</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107170000 +0800" stop="20261107173000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107173000 +0800" stop="20261107173800 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">東京点描 谷中・根津・千駄木</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107173800 +0800" stop="20261107180000 +0800">
+    <title lang="zh">ごりやくさん【再】【字】</title>
+    <desc lang="zh">椿大神社</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107180000 +0800" stop="20261107183000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107183000 +0800" stop="20261107190000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107190000 +0800" stop="20261107193800 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">【改】Ａｒｔｉｓｔ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107193800 +0800" stop="20261107200000 +0800">
+    <title lang="zh">ごりやくさん【字】</title>
+    <desc lang="zh">総集編（１９－２３）</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107200000 +0800" stop="20261107203000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107203000 +0800" stop="20261107210000 +0800">
+    <title lang="zh">ＭＸショッピング</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107210000 +0800" stop="20261107220000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">散歩の風景 横浜・湘南・箱根</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107220000 +0800" stop="20261107221000 +0800">
+    <title lang="zh">笑ゥせぇるすまん ＃５９「極楽風呂」</title>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107221000 +0800" stop="20261107223000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">東京ＢＡＹクルーズ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107223000 +0800" stop="20261107230000 +0800">
+    <title lang="zh">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title>
+    <desc lang="zh">緑と影のコントラスト、武蔵境</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107230000 +0800" stop="20261107233000 +0800">
+    <title lang="zh">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title>
+    <desc lang="zh">２両の電車が行く西新井大師</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261107233000 +0800" stop="20261108000000 +0800">
+    <title lang="zh">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title>
+    <desc lang="zh">有楽町と神田、明治のレンガとガード下</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261108000000 +0800" stop="20261108010000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">散歩の風景 墨田・台東・日本橋・東京ＢＡＹ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261108010000 +0800" stop="20261108013000 +0800">
+    <title lang="zh">ＣＭ ＩＮＤＥＸ</title>
+    <desc lang="zh">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261108013000 +0800" stop="20261108020000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">玉川上水編</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261108020000 +0800" stop="20261108030000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">工場夜景クルーズ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+  <programme channel="TokyoMX2.jp" start="20261108030000 +0800" stop="20261108040000 +0800">
+    <title lang="zh">ヒーリングタイム＆ヘッドラインニュース</title>
+    <desc lang="zh">にゃんタレＭｏｖｉｅ</desc>
+    <icon src="https://s.mxtv.jp/img/logo.svg?2604" />
+  </programme>
+</tv>

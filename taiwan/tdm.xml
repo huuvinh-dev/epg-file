@@ -1,0 +1,1698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tdm">
+  <channel id="澳視澳門91台.mo">
+    <display-name lang="zh">澳視澳門 91台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </channel>
+  <channel id="澳視葡文92台.mo">
+    <display-name lang="zh">澳視葡文 92台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </channel>
+  <channel id="澳門資訊94台.mo">
+    <display-name lang="zh">澳門資訊 94台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </channel>
+  <channel id="澳門體育93台.mo">
+    <display-name lang="zh">澳門體育 93台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </channel>
+  <channel id="澳門綜藝95台.mo">
+    <display-name lang="zh">澳門綜藝 95台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </channel>
+  <channel id="澳門-Macau96台.mo">
+    <display-name lang="zh">澳門-Macau 96台</display-name>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </channel>
+  <programme channel="澳視澳門91台.mo" start="20261106230000 +0800" stop="20261107000000 +0800">
+    <title lang="zh">早晨新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107000000 +0800" stop="20261107010000 +0800">
+    <title lang="zh">澳門早晨</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107010000 +0800" stop="20261107010200 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107010200 +0800" stop="20261107014800 +0800">
+    <title lang="zh">在世界的角落紮營</title>
+    <desc lang="zh">與一名親人好友在國外露營，會是怎樣的一種體驗？新加坡本地知名藝人們將攜同一名伴侶，在國外展開前所未有的露營體驗，挑戰新穎戶外活動，並對彼此前所未有的敞開心扉。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/842046b2f4f1e7c5cf35f29ded17c421.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107014800 +0800" stop="20261107020000 +0800">
+    <title lang="zh">5億年，岩石裡的生命奇跡</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107020000 +0800" stop="20261107023000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107023000 +0800" stop="20261107030000 +0800">
+    <title lang="zh">重播澳視新聞檔案</title>
+    <desc lang="zh">節目設有“一周大事記”、“近距離對話”、“新聞深度遊”等環節，為大家重溫一周本地及國際大事，邀請政府官員或社會人士近距離對話，探討時事熱話，亦會深度報道社會關注議題。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/fb03fef013eaab594788eeb74e6d9ca9.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107030000 +0800" stop="20261107031000 +0800">
+    <title lang="zh">育才成長  築新未來︰家長學堂</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/1214949e1f41ecbcec6de815464de6a9.jpeg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107031000 +0800" stop="20261107031500 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107031500 +0800" stop="20261107045000 +0800">
+    <title lang="zh">金色大道</title>
+    <desc lang="zh">“六木”—林木森（陳泂江飾）的父母和妹妹在他年少時死於車禍，從此寄人籬下。他結識了兩位好友，傻氣講義氣耐打的黃金條（田銘耀飾），寡言木訥堅定的何建志（孫政飾）。三人讀書不多，卻都想要改變命運。他們奮力地走上金色大道，卻在過程中逐漸迷失。某一天，六木闖入洋房將 建志開槍打死被全球通緝。逃亡中，三人反目成仇的往事層層揭開……</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-09/b8e44164f584705d74554de89f7260b0.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107045000 +0800" stop="20261107050500 +0800">
+    <title lang="zh">鄉間物語</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107050500 +0800" stop="20261107051200 +0800">
+    <title lang="zh">萬物有靈</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107051200 +0800" stop="20261107051700 +0800">
+    <title lang="zh">“你問我答”粵澳法律直播間 </title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107051700 +0800" stop="20261107052400 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107052400 +0800" stop="20261107053000 +0800">
+    <title lang="zh">午間天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107053000 +0800" stop="20261107060000 +0800">
+    <title lang="zh">午間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107060000 +0800" stop="20261107073400 +0800">
+    <title lang="zh">無所畏懼</title>
+    <desc lang="zh">由熱依扎、王陽、啜妮、沈羽潔主演。故事講述羅英子(熱依扎飾)原本是機關工作人員，自學法律通過了司法考試，卻遭遇打擊：丈夫劉銘與她感情破裂，劉銘更在國內欠下巨額高利貸，讓羅英子深陷債務危機。但羅英子並沒有放棄，她選擇用法律手段還擊。羅英子作為律所新人，一方面背負著巨額債款，一方面又要面對職場上壓力，幸而她遇到了志同道合的夥伴-邱華(啜妮飾)、夏舒(沈羽潔飾)。她們始終堅持對法律的信仰，堅持伸張正義，通過一宗宗案件見證了人性百態和社會冷暖。羅英子等人成長為“金牌律師”，詐騙危機也被化解 。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/42f07d581674fa21710427d0bfd34e61.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107073400 +0800" stop="20261107074000 +0800">
+    <title lang="zh">巧手時光</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107074000 +0800" stop="20261107080000 +0800">
+    <title lang="zh">澳門早晨精華錄</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107080000 +0800" stop="20261107083000 +0800">
+    <title lang="zh">兒童節目︰舒克貝塔 第1季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107083000 +0800" stop="20261107085600 +0800">
+    <title lang="zh">兒童節目︰萌賽可第一季</title>
+    <desc lang="zh">這是一部動作冒險喜劇，講述了身懷絕技的“萌賽可”小隊保護夥伴、對抗邪惡的爆笑故事。“萌賽可”小隊包括五名成員，他們雖然長相小巧可愛，但各個身手不凡。為了保護對“魷魚特工隊”漫畫感興趣的菲菲公主，萌賽可用勇氣和智慧一次次挫敗敵人的進攻，維護宇宙的和平。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-09/0ba75ef1533b5dc6d20048ecc84b045c.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107085600 +0800" stop="20261107090000 +0800">
+    <title lang="zh">兒童節目︰萌浪兔 第2季</title>
+    <desc lang="zh">萌浪是一只無憂無慮、古靈精怪但熱情充沛的小兔子。萌浪最好的朋友：Piu Piu，是一隻謹慎害羞、情緒化的小雞。儘管兩個好朋友的性格截然不同，卻擁有著獨一無二的堅固友情。從平凡到非凡，它們一起經歷著最好的時光。無論是去月球冒險還是一起種菜澆花，萌浪和Piu Piu總能遇到一些意想不到又不太順利的事情。然而每一次，棘手的困難和誤會總會得到解決，最終變成幽默的歡樂時...</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/9edab74c3b6565e456c88d94bf9b3051.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107090000 +0800" stop="20261107091500 +0800">
+    <title lang="zh">兒童節目︰冰雪守護者第1季</title>
+    <desc lang="zh">該動畫是基於安徒生童話《冰雪女王》故事背景，講述了冰雪女王5歲的小女兒冰寶，第一次離開永恆霜凍王國，來到人類小鎮生活。在這裡，她和新朋友小北、小凱一起探索冒險，面對重重困難，他們化身小小英雄，利用魔法與科學，和海盜、土匪、魔術師、還有會走路的植物戰鬥！在探索中歷練，在學習中成長的故事。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-04/a5ed7e1a7391f2a11c8800adc094314c.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107091500 +0800" stop="20261107100000 +0800">
+    <title lang="zh">兒童節目︰冰雪守護者 第2季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107100000 +0800" stop="20261107104300 +0800">
+    <title lang="zh">重播動感教菁</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107104300 +0800" stop="20261107105000 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107105000 +0800" stop="20261107110000 +0800">
+    <title lang="zh">新聞提要</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107110000 +0800" stop="20261107115500 +0800">
+    <title lang="zh">澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107115500 +0800" stop="20261107120000 +0800">
+    <title lang="zh">天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107120000 +0800" stop="20261107125500 +0800">
+    <title lang="zh">天下雄關</title>
+    <desc lang="zh">該片以歷史上著名的關隘為敘述本體，講述圍繞關隘發生的影響中國歷史發展進程、在中華民族發展史上具有重大意義的歷史事件和著名人物故事，挖掘關隘蘊含的歷史文化價值，彰顯中華民族的文化自信和家國情懷。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/1b473408616ddd41accb67fb613db082.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107125500 +0800" stop="20261107134000 +0800">
+    <title lang="zh">鎮鄉之寶</title>
+    <desc lang="zh">每一個鄉鎮都有屬於自己獨特的《鎮鄉之寶》！當中包括世代相傳的技能、源自大自然的恩賜及翻轉鄉鎮經濟命運的行業等。每集將揭開世界各地特殊的‘寶’，並透視每座鄉鎮的精神和樣貌，打開對世界的另一種認知。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/8921c89f39d3b7c9d606a2c840cac057.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107134000 +0800" stop="20261107135000 +0800">
+    <title lang="zh">葡萄牙火車站</title>
+    <desc lang="zh">本節目是一部由葡萄牙推出的迷你紀錄片系列，主要記錄與講述葡萄牙境內最具歷史、建築美學及文化意義的火車站故事，帶領觀眾深入探索這些知名車站的歷史背景與視覺特色。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/6d238e90950b8b50ee5affaabfe0a7c3.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107135000 +0800" stop="20261107140000 +0800">
+    <title lang="zh">蟲出江湖</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107140000 +0800" stop="20261107143000 +0800">
+    <title lang="zh">普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107143000 +0800" stop="20261107151500 +0800">
+    <title lang="zh">十點半澳視縱橫︰財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107151500 +0800" stop="20261107155000 +0800">
+    <title lang="zh">晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107155000 +0800" stop="20261107160100 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107160100 +0800" stop="20261107173500 +0800">
+    <title lang="zh">無所畏懼</title>
+    <desc lang="zh">由熱依扎、王陽、啜妮、沈羽潔主演。故事講述羅英子(熱依扎飾)原本是機關工作人員，自學法律通過了司法考試，卻遭遇打擊：丈夫劉銘與她感情破裂，劉銘更在國內欠下巨額高利貸，讓羅英子深陷債務危機。但羅英子並沒有放棄，她選擇用法律手段還擊。羅英子作為律所新人，一方面背負著巨額債款，一方面又要面對職場上壓力，幸而她遇到了志同道合的夥伴-邱華(啜妮飾)、夏舒(沈羽潔飾)。她們始終堅持對法律的信仰，堅持伸張正義，通過一宗宗案件見證了人性百態和社會冷暖。羅英子等人成長為“金牌律師”，詐騙危機也被化解 。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/42f07d581674fa21710427d0bfd34e61.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107173500 +0800" stop="20261107175500 +0800">
+    <title lang="zh">露天風情葡萄牙 第一季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107175500 +0800" stop="20261107184500 +0800">
+    <title lang="zh">天下雄關</title>
+    <desc lang="zh">該片以歷史上著名的關隘為敘述本體，講述圍繞關隘發生的影響中國歷史發展進程、在中華民族發展史上具有重大意義的歷史事件和著名人物故事，挖掘關隘蘊含的歷史文化價值，彰顯中華民族的文化自信和家國情懷。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/1b473408616ddd41accb67fb613db082.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107184500 +0800" stop="20261107190000 +0800">
+    <title lang="zh">葡萄牙火車站</title>
+    <desc lang="zh">本節目是一部由葡萄牙推出的迷你紀錄片系列，主要記錄與講述葡萄牙境內最具歷史、建築美學及文化意義的火車站故事，帶領觀眾深入探索這些知名車站的歷史背景與視覺特色。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/6d238e90950b8b50ee5affaabfe0a7c3.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107190000 +0800" stop="20261107192500 +0800">
+    <title lang="zh">錄播普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107192500 +0800" stop="20261107200000 +0800">
+    <title lang="zh">錄播晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107200000 +0800" stop="20261107204700 +0800">
+    <title lang="zh">在世界的角落紮營</title>
+    <desc lang="zh">與一名親人好友在國外露營，會是怎樣的一種體驗？新加坡本地知名藝人們將攜同一名伴侶，在國外展開前所未有的露營體驗，挑戰新穎戶外活動，並對彼此前所未有的敞開心扉。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/842046b2f4f1e7c5cf35f29ded17c421.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107204700 +0800" stop="20261107212500 +0800">
+    <title lang="zh">重播財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107212500 +0800" stop="20261107222500 +0800">
+    <title lang="zh">金色大道</title>
+    <desc lang="zh">“六木”—林木森（陳泂江飾）的父母和妹妹在他年少時死於車禍，從此寄人籬下。他結識了兩位好友，傻氣講義氣耐打的黃金條（田銘耀飾），寡言木訥堅定的何建志（孫政飾）。三人讀書不多，卻都想要改變命運。他們奮力地走上金色大道，卻在過程中逐漸迷失。某一天，六木闖入洋房將 建志開槍打死被全球通緝。逃亡中，三人反目成仇的往事層層揭開……</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-09/b8e44164f584705d74554de89f7260b0.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261107230000 +0800" stop="20261108003500 +0800">
+    <title lang="zh">孺子可教也</title>
+    <desc lang="zh">在迎來小學畢業試之際，三位教育方式截然不同的鷹爸，兔爸以及羊爸，以自認為最好的教育方式管教孩子，卻忽略了孩子的天賦差異和需求，造成與孩子的感情出現裂痕。爸爸們痛定思痛後，決心撕下"動物屬性"的標籤，努力修復好親子關係，陪同孩子一起面對畢業試這個重要的里程碑。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-08/5108776c0a65ff3a50968d1d8e0cc5ae.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108003500 +0800" stop="20261108010000 +0800">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108010000 +0800" stop="20261108010200 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108010200 +0800" stop="20261108014800 +0800">
+    <title lang="zh">在世界的角落紮營</title>
+    <desc lang="zh">與一名親人好友在國外露營，會是怎樣的一種體驗？新加坡本地知名藝人們將攜同一名伴侶，在國外展開前所未有的露營體驗，挑戰新穎戶外活動，並對彼此前所未有的敞開心扉。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/842046b2f4f1e7c5cf35f29ded17c421.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108014800 +0800" stop="20261108020000 +0800">
+    <title lang="zh">5億年，岩石裡的生命奇跡</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108020000 +0800" stop="20261108023000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108023000 +0800" stop="20261108031000 +0800">
+    <title lang="zh">重播財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108031000 +0800" stop="20261108031500 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108031500 +0800" stop="20261108045000 +0800">
+    <title lang="zh">金色大道</title>
+    <desc lang="zh">“六木”—林木森（陳泂江飾）的父母和妹妹在他年少時死於車禍，從此寄人籬下。他結識了兩位好友，傻氣講義氣耐打的黃金條（田銘耀飾），寡言木訥堅定的何建志（孫政飾）。三人讀書不多，卻都想要改變命運。他們奮力地走上金色大道，卻在過程中逐漸迷失。某一天，六木闖入洋房將 建志開槍打死被全球通緝。逃亡中，三人反目成仇的往事層層揭開……</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-09/b8e44164f584705d74554de89f7260b0.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108045000 +0800" stop="20261108050500 +0800">
+    <title lang="zh">鄉間物語</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108050500 +0800" stop="20261108051200 +0800">
+    <title lang="zh">萬物有靈</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108051200 +0800" stop="20261108051700 +0800">
+    <title lang="zh">“你問我答”粵澳法律直播間 </title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108051700 +0800" stop="20261108052400 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108052400 +0800" stop="20261108053000 +0800">
+    <title lang="zh">午間天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108053000 +0800" stop="20261108060000 +0800">
+    <title lang="zh">午間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108060000 +0800" stop="20261108064600 +0800">
+    <title lang="zh">無所畏懼</title>
+    <desc lang="zh">由熱依扎、王陽、啜妮、沈羽潔主演。故事講述羅英子(熱依扎飾)原本是機關工作人員，自學法律通過了司法考試，卻遭遇打擊：丈夫劉銘與她感情破裂，劉銘更在國內欠下巨額高利貸，讓羅英子深陷債務危機。但羅英子並沒有放棄，她選擇用法律手段還擊。羅英子作為律所新人，一方面背負著巨額債款，一方面又要面對職場上壓力，幸而她遇到了志同道合的夥伴-邱華(啜妮飾)、夏舒(沈羽潔飾)。她們始終堅持對法律的信仰，堅持伸張正義，通過一宗宗案件見證了人性百態和社會冷暖。羅英子等人成長為“金牌律師”，詐騙危機也被化解 。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/42f07d581674fa21710427d0bfd34e61.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108064600 +0800" stop="20261108073500 +0800">
+    <title lang="zh">白鹿原</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108073500 +0800" stop="20261108080500 +0800">
+    <title lang="zh">Z世代 青年說第二季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108080500 +0800" stop="20261108083000 +0800">
+    <title lang="zh">兒童節目︰舒克貝塔 第1季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108083000 +0800" stop="20261108085600 +0800">
+    <title lang="zh">兒童節目︰萌賽可第一季</title>
+    <desc lang="zh">這是一部動作冒險喜劇，講述了身懷絕技的“萌賽可”小隊保護夥伴、對抗邪惡的爆笑故事。“萌賽可”小隊包括五名成員，他們雖然長相小巧可愛，但各個身手不凡。為了保護對“魷魚特工隊”漫畫感興趣的菲菲公主，萌賽可用勇氣和智慧一次次挫敗敵人的進攻，維護宇宙的和平。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-09/0ba75ef1533b5dc6d20048ecc84b045c.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108085600 +0800" stop="20261108090000 +0800">
+    <title lang="zh">兒童節目︰萌浪兔 第2季</title>
+    <desc lang="zh">萌浪是一只無憂無慮、古靈精怪但熱情充沛的小兔子。萌浪最好的朋友：Piu Piu，是一隻謹慎害羞、情緒化的小雞。儘管兩個好朋友的性格截然不同，卻擁有著獨一無二的堅固友情。從平凡到非凡，它們一起經歷著最好的時光。無論是去月球冒險還是一起種菜澆花，萌浪和Piu Piu總能遇到一些意想不到又不太順利的事情。然而每一次，棘手的困難和誤會總會得到解決，最終變成幽默的歡樂時...</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/9edab74c3b6565e456c88d94bf9b3051.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108090000 +0800" stop="20261108100000 +0800">
+    <title lang="zh">兒童節目︰冰雪守護者 第2季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108100000 +0800" stop="20261108104300 +0800">
+    <title lang="zh">澳門早晨一週精華</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108104300 +0800" stop="20261108105000 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108105000 +0800" stop="20261108110000 +0800">
+    <title lang="zh">新聞提要</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108110000 +0800" stop="20261108115500 +0800">
+    <title lang="zh">澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108115500 +0800" stop="20261108120000 +0800">
+    <title lang="zh">天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108120000 +0800" stop="20261108133500 +0800">
+    <title lang="zh">孺子可教也</title>
+    <desc lang="zh">在迎來小學畢業試之際，三位教育方式截然不同的鷹爸，兔爸以及羊爸，以自認為最好的教育方式管教孩子，卻忽略了孩子的天賦差異和需求，造成與孩子的感情出現裂痕。爸爸們痛定思痛後，決心撕下"動物屬性"的標籤，努力修復好親子關係，陪同孩子一起面對畢業試這個重要的里程碑。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-08/5108776c0a65ff3a50968d1d8e0cc5ae.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108133500 +0800" stop="20261108134000 +0800">
+    <title lang="zh">巧手時光</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108134000 +0800" stop="20261108140000 +0800">
+    <title lang="zh">詩詞有故事</title>
+    <desc lang="zh">詩篇留紙上，歲月藏字間。&lt;br&gt;詞句訴心事，悲歡訴世間。&lt;br&gt;細解文中意，重探舊時顏。&lt;br&gt;《詩詞有故事》共讀古賢篇。&lt;br&gt;本節目通過講述中華詩詞背後的故事，傳承民族精神，弘揚中華文化，厚植家國情懷。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/db39e7880c1b8f5859e6b422fde19f05.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108140000 +0800" stop="20261108143000 +0800">
+    <title lang="zh">普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108143000 +0800" stop="20261108151500 +0800">
+    <title lang="zh">十點半澳視縱橫︰中國城市動態</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108151500 +0800" stop="20261108155000 +0800">
+    <title lang="zh">晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108155000 +0800" stop="20261108160100 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108160100 +0800" stop="20261108164700 +0800">
+    <title lang="zh">無所畏懼</title>
+    <desc lang="zh">由熱依扎、王陽、啜妮、沈羽潔主演。故事講述羅英子(熱依扎飾)原本是機關工作人員，自學法律通過了司法考試，卻遭遇打擊：丈夫劉銘與她感情破裂，劉銘更在國內欠下巨額高利貸，讓羅英子深陷債務危機。但羅英子並沒有放棄，她選擇用法律手段還擊。羅英子作為律所新人，一方面背負著巨額債款，一方面又要面對職場上壓力，幸而她遇到了志同道合的夥伴-邱華(啜妮飾)、夏舒(沈羽潔飾)。她們始終堅持對法律的信仰，堅持伸張正義，通過一宗宗案件見證了人性百態和社會冷暖。羅英子等人成長為“金牌律師”，詐騙危機也被化解 。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/42f07d581674fa21710427d0bfd34e61.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108164700 +0800" stop="20261108173500 +0800">
+    <title lang="zh">白鹿原</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108173500 +0800" stop="20261108180000 +0800">
+    <title lang="zh">露天風情葡萄牙 第一季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108180000 +0800" stop="20261108185000 +0800">
+    <title lang="zh">鎮鄉之寶</title>
+    <desc lang="zh">每一個鄉鎮都有屬於自己獨特的《鎮鄉之寶》！當中包括世代相傳的技能、源自大自然的恩賜及翻轉鄉鎮經濟命運的行業等。每集將揭開世界各地特殊的‘寶’，並透視每座鄉鎮的精神和樣貌，打開對世界的另一種認知。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/8921c89f39d3b7c9d606a2c840cac057.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108185000 +0800" stop="20261108190000 +0800">
+    <title lang="zh">四川非遺100 - 第四季</title>
+    <desc lang="zh">《四川非遺100》系列短視頻已製作播出多季，每集聚焦一個具體的四川非物質文化遺產項目及其傳承人。第四季共10集，包含峨眉武術、汶川羊皮鼓舞、丹棱嗩呐、喚馬剪紙、丹棱凍粑、德陽潮扇、閬中保寧醋、邛窯燒造、先市醬油、藏文書法（《墨香猶存》）。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/42dfa7919a6a0a56ff4aa94d6828b66f.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108190000 +0800" stop="20261108192500 +0800">
+    <title lang="zh">錄播普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108192500 +0800" stop="20261108200000 +0800">
+    <title lang="zh">錄播晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108200000 +0800" stop="20261108204700 +0800">
+    <title lang="zh">在世界的角落紮營</title>
+    <desc lang="zh">與一名親人好友在國外露營，會是怎樣的一種體驗？新加坡本地知名藝人們將攜同一名伴侶，在國外展開前所未有的露營體驗，挑戰新穎戶外活動，並對彼此前所未有的敞開心扉。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/842046b2f4f1e7c5cf35f29ded17c421.jpg" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108204700 +0800" stop="20261108212500 +0800">
+    <title lang="zh">重播中國城市動態</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png" />
+  </programme>
+  <programme channel="澳視澳門91台.mo" start="20261108212500 +0800" stop="20261108222500 +0800">
+    <title lang="zh">金色大道</title>
+    <desc lang="zh">“六木”—林木森（陳泂江飾）的父母和妹妹在他年少時死於車禍，從此寄人籬下。他結識了兩位好友，傻氣講義氣耐打的黃金條（田銘耀飾），寡言木訥堅定的何建志（孫政飾）。三人讀書不多，卻都想要改變命運。他們奮力地走上金色大道，卻在過程中逐漸迷失。某一天，六木闖入洋房將 建志開槍打死被全球通緝。逃亡中，三人反目成仇的往事層層揭開……</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-09/b8e44164f584705d74554de89f7260b0.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107053000 +0800" stop="20261107064000 +0800">
+    <title lang="zh">Telejornal RTPi (Diferido)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107064000 +0800" stop="20261107071000 +0800">
+    <title lang="zh">Emoções no Índico</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/c34affd8251d8abb9f0906ad9bdd2dab.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107071000 +0800" stop="20261107073000 +0800">
+    <title lang="zh">Pocoyo T1</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107073000 +0800" stop="20261107075500 +0800">
+    <title lang="zh">Senninha na Pista Maluca T1</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107075500 +0800" stop="20261107081000 +0800">
+    <title lang="zh">Snoopy no Espaço T1 - Estreia</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107081000 +0800" stop="20261107083500 +0800">
+    <title lang="zh">Extreme Football T1</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107083500 +0800" stop="20261107090000 +0800">
+    <title lang="zh">Inspector Gadget</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107090000 +0800" stop="20261107095000 +0800">
+    <title lang="zh">Ásia</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-11/10587e257d23dff4b936569756ddc75f.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107095000 +0800" stop="20261107103000 +0800">
+    <title lang="zh">Hora dos Portugueses</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107103000 +0800" stop="20261107110000 +0800">
+    <title lang="zh">O Programa dos Barcos</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/d475484c780513c99b0b811d56daea44.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107110000 +0800" stop="20261107120000 +0800">
+    <title lang="zh">Veterinário de Província T2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/fd82ec670dc74077211ad556a6c94d0a.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107120000 +0800" stop="20261107125000 +0800">
+    <title lang="zh">Telejornal</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107125000 +0800" stop="20261107133500 +0800">
+    <title lang="zh">Parenthood: Uma História de Família T5</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/645dd052e740ebf0326b9fcc6ba08f9d.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107133500 +0800" stop="20261107134500 +0800">
+    <title lang="zh">Minha Terra, Minha Gente</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107134500 +0800" stop="20261107143500 +0800">
+    <title lang="zh">Ritmos da Cidade - Estreia</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-11/10e51077932290ddb0473e094041d2dc.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107143500 +0800" stop="20261107151000 +0800">
+    <title lang="zh">TDM News</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107151000 +0800" stop="20261107170000 +0800">
+    <title lang="zh">Monster's Ball</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261107170000 +0800" stop="20261107180000 +0800">
+    <title lang="zh">RTPi Directo</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108025500 +0800" stop="20261108041500 +0800">
+    <title lang="zh">Missa Dominical (Directo)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108041500 +0800" stop="20261108050000 +0800">
+    <title lang="zh">SOS Animal T3 - Fim</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/1fba23cc55c7643aa060df5cbede138a.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108050000 +0800" stop="20261108053000 +0800">
+    <title lang="zh">Encruzilhadas da Vida</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108053000 +0800" stop="20261108064000 +0800">
+    <title lang="zh">Telejornal RTPi (Diferido)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108064000 +0800" stop="20261108070500 +0800">
+    <title lang="zh">Passado em Foco: Gente da Nossa Terra - Adeus de Macau - Parte 2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108070500 +0800" stop="20261108074000 +0800">
+    <title lang="zh">China 360° (Repetição)</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-03/835d603f890dd12e5c9efadfab95e638.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108074000 +0800" stop="20261108080500 +0800">
+    <title lang="zh">Yoko</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108080500 +0800" stop="20261108083000 +0800">
+    <title lang="zh">O Mundo do Snoopy T1</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108083000 +0800" stop="20261108085500 +0800">
+    <title lang="zh">Carmen Sandiego T2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108085500 +0800" stop="20261108092000 +0800">
+    <title lang="zh">Basketeers T2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108092000 +0800" stop="20261108095000 +0800">
+    <title lang="zh">Ó Da Casa T2 - Fim</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-07/618a0b7f5965b5c925f9ddaa35e86d7d.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108095000 +0800" stop="20261108101500 +0800">
+    <title lang="zh">O Mundo Inexplorado</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/930ca2d1662815b611106553d9f0bfca.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108101500 +0800" stop="20261108110000 +0800">
+    <title lang="zh">Patrões Fora T2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-07/b27095c6b6ee18ec135aa855f0879609.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108110000 +0800" stop="20261108120000 +0800">
+    <title lang="zh">Sandringham: Uma Residência Real - Fim</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/5f5c850942207e86a6a23a32cd0748ba.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108120000 +0800" stop="20261108125000 +0800">
+    <title lang="zh">Telejornal</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108125000 +0800" stop="20261108135000 +0800">
+    <title lang="zh">TDM Entrevista - Professor Daniel Cardoso</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108135000 +0800" stop="20261108143500 +0800">
+    <title lang="zh">A Filha</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/9d80040426322d73489ba009bf126027.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108143500 +0800" stop="20261108151000 +0800">
+    <title lang="zh">TDM News</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108151000 +0800" stop="20261108154000 +0800">
+    <title lang="zh">Vistos para a Vida</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/4d43d2d12f11f1daaf861248818688f6.jpg" />
+  </programme>
+  <programme channel="澳視葡文92台.mo" start="20261108154000 +0800" stop="20261108164000 +0800">
+    <title lang="zh">RTPi Directo</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/595c1e8233d7a436a0747bad38a27e81.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261106225900 +0800" stop="20261106230000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261106230000 +0800" stop="20261107000000 +0800">
+    <title lang="zh">早晨新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107000000 +0800" stop="20261107010000 +0800">
+    <title lang="zh">澳門早晨</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107010000 +0800" stop="20261107013000 +0800">
+    <title lang="zh">重播早晨新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107013000 +0800" stop="20261107015500 +0800">
+    <title lang="zh">家家有求</title>
+    <desc lang="zh">為求住得安心，每個家庭都會出盡法寶。《家家有求》為觀眾剖析家居需要及暢談家居新知，由裝修設計物料，到日常家居保養、維修、新科技，以至日常家居種種疑難應有盡有。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-08/9f4ecba5e5045e00cc66327f60f44a81.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107015500 +0800" stop="20261107020000 +0800">
+    <title lang="zh">澳門早晨精華篇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107020000 +0800" stop="20261107023000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107023000 +0800" stop="20261107030000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107030000 +0800" stop="20261107030800 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107030800 +0800" stop="20261107031500 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107031500 +0800" stop="20261107032300 +0800">
+    <title lang="zh">中國軟實力</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107032300 +0800" stop="20261107035300 +0800">
+    <title lang="zh">重播澳視新聞檔案</title>
+    <desc lang="zh">節目設有“一周大事記”、“近距離對話”、“新聞深度遊”等環節，為大家重溫一周本地及國際大事，邀請政府官員或社會人士近距離對話，探討時事熱話，亦會深度報道社會關注議題。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/fb03fef013eaab594788eeb74e6d9ca9.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107035300 +0800" stop="20261107040000 +0800">
+    <title lang="zh">育才成長 築新未來： 家長學堂</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/1214949e1f41ecbcec6de815464de6a9.jpeg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107040000 +0800" stop="20261107042000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107042000 +0800" stop="20261107042700 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107042700 +0800" stop="20261107043000 +0800">
+    <title lang="zh">街市情報</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107043000 +0800" stop="20261107045000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107045000 +0800" stop="20261107050000 +0800">
+    <title lang="zh">宇宙更強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107050000 +0800" stop="20261107051000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107051000 +0800" stop="20261107051700 +0800">
+    <title lang="zh">營商創新研究所</title>
+    <desc lang="zh">由所長及研究員帶觀眾去了解政府在推動社區經濟、科創發展等方面的政策、措施及相關活動等內容。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/fd83b3fc582c909ff865d559972020f9.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107051700 +0800" stop="20261107052400 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107052400 +0800" stop="20261107053000 +0800">
+    <title lang="zh">午間天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107053000 +0800" stop="20261107060000 +0800">
+    <title lang="zh">午間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107060000 +0800" stop="20261107064200 +0800">
+    <title lang="zh">古蜀瑰寶</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107064200 +0800" stop="20261107065400 +0800">
+    <title lang="zh">澳門早晨精華篇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107065400 +0800" stop="20261107070000 +0800">
+    <title lang="zh">“你問我答”粵澳法律直播間 </title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107070000 +0800" stop="20261107072500 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107072500 +0800" stop="20261107073000 +0800">
+    <title lang="zh">街市情報</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107073000 +0800" stop="20261107080000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107080000 +0800" stop="20261107083000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107083000 +0800" stop="20261107090000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107090000 +0800" stop="20261107093000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107093000 +0800" stop="20261107094500 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107094500 +0800" stop="20261107095200 +0800">
+    <title lang="zh">橫琴攻略</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107095200 +0800" stop="20261107100000 +0800">
+    <title lang="zh">時局綜觀</title>
+    <desc lang="zh">解讀、分析近期熱門的內地和國際新聞熱話。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/6761322ac6b427091c37bf35a1f0065e.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107100000 +0800" stop="20261107100500 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107100500 +0800" stop="20261107100700 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107100700 +0800" stop="20261107103200 +0800">
+    <title lang="zh">澳門早晨精華錄</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107103200 +0800" stop="20261107110000 +0800">
+    <title lang="zh">灣區全媒睇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107110000 +0800" stop="20261107115500 +0800">
+    <title lang="zh">澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107115500 +0800" stop="20261107115800 +0800">
+    <title lang="zh">天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107115800 +0800" stop="20261107120000 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107120000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">錄播澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107130000 +0800" stop="20261107140000 +0800">
+    <title lang="zh">錄播澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107140000 +0800" stop="20261107143000 +0800">
+    <title lang="zh">普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107143000 +0800" stop="20261107151500 +0800">
+    <title lang="zh">十點半澳視縱橫：財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107151500 +0800" stop="20261107155000 +0800">
+    <title lang="zh">晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107155000 +0800" stop="20261107160500 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107160500 +0800" stop="20261107163200 +0800">
+    <title lang="zh">中國城市報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107163200 +0800" stop="20261107164500 +0800">
+    <title lang="zh">澳門早晨精華篇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107164500 +0800" stop="20261107171500 +0800">
+    <title lang="zh">錄播普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107171500 +0800" stop="20261107175000 +0800">
+    <title lang="zh">錄播晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107175000 +0800" stop="20261107180000 +0800">
+    <title lang="zh">重播體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107180000 +0800" stop="20261107190000 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107225900 +0800" stop="20261107230000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107230000 +0800" stop="20261107233200 +0800">
+    <title lang="zh">錄播新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107233200 +0800" stop="20261107234500 +0800">
+    <title lang="zh">自在練瑜伽</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261107234500 +0800" stop="20261108000000 +0800">
+    <title lang="zh">心靈手語</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108000000 +0800" stop="20261108003000 +0800">
+    <title lang="zh">錄播新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108003000 +0800" stop="20261108005500 +0800">
+    <title lang="zh">澳門人澳門事</title>
+    <desc lang="zh">活在澳門, 感受生活,&lt;br&gt;&lt;澳門人．澳門事&gt;,&lt;br&gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/ea61fc8af7964a7bafb909326638dfcd.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108005500 +0800" stop="20261108010000 +0800">
+    <title lang="zh">“你問我答”粵澳法律直播間 </title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108010000 +0800" stop="20261108013000 +0800">
+    <title lang="zh">錄播新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108013000 +0800" stop="20261108020000 +0800">
+    <title lang="zh">絲路時間U Silk : 粉雪奇遇</title>
+    <desc lang="zh">中法兩國滑雪運動達人分別前往對方國家的粉雪勝地-法國薩瓦與中國吉林，採用手機連線與極限挑戰的方式，探索長白山和阿爾卑斯山“同緯度粉雪”的獨特魅力，展現人與自然的和諧之美；並通過與當地人的熱情互動，帶領觀眾體驗獨具特色的冰雪文化，體現中法兩國在文明交流互鑒中尋求共同發展，生動詮釋構建“人類命運共同體”的深刻內涵。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/befc2984c5f5b5f8ae3bdc517124d241.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108020000 +0800" stop="20261108023000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108023000 +0800" stop="20261108030000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108030000 +0800" stop="20261108031200 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108031200 +0800" stop="20261108032000 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108032000 +0800" stop="20261108040000 +0800">
+    <title lang="zh">財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108040000 +0800" stop="20261108042000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108042000 +0800" stop="20261108042700 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108042700 +0800" stop="20261108043000 +0800">
+    <title lang="zh">街市情報</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108043000 +0800" stop="20261108045000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108045000 +0800" stop="20261108050000 +0800">
+    <title lang="zh">海派百工2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108050000 +0800" stop="20261108051700 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108051700 +0800" stop="20261108052400 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108052400 +0800" stop="20261108053000 +0800">
+    <title lang="zh">午間天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108053000 +0800" stop="20261108060000 +0800">
+    <title lang="zh">午間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108060000 +0800" stop="20261108064500 +0800">
+    <title lang="zh">香港空間改造王</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108064500 +0800" stop="20261108070000 +0800">
+    <title lang="zh">心靈手語</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108070000 +0800" stop="20261108072500 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108072500 +0800" stop="20261108073000 +0800">
+    <title lang="zh">街市情報</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108073000 +0800" stop="20261108080000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108080000 +0800" stop="20261108083000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108083000 +0800" stop="20261108090000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108090000 +0800" stop="20261108093000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108093000 +0800" stop="20261108095000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108095000 +0800" stop="20261108100000 +0800">
+    <title lang="zh">SUN聞搜羅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108100000 +0800" stop="20261108100500 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108100500 +0800" stop="20261108100700 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108100700 +0800" stop="20261108103500 +0800">
+    <title lang="zh">絲路時間U Silk : 粉雪奇遇</title>
+    <desc lang="zh">中法兩國滑雪運動達人分別前往對方國家的粉雪勝地-法國薩瓦與中國吉林，採用手機連線與極限挑戰的方式，探索長白山和阿爾卑斯山“同緯度粉雪”的獨特魅力，展現人與自然的和諧之美；並通過與當地人的熱情互動，帶領觀眾體驗獨具特色的冰雪文化，體現中法兩國在文明交流互鑒中尋求共同發展，生動詮釋構建“人類命運共同體”的深刻內涵。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/befc2984c5f5b5f8ae3bdc517124d241.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108103500 +0800" stop="20261108105000 +0800">
+    <title lang="zh">澳門早晨精華篇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108105000 +0800" stop="20261108110000 +0800">
+    <title lang="zh">“你問我答”粵澳法律直播間 </title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108110000 +0800" stop="20261108115500 +0800">
+    <title lang="zh">澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108115500 +0800" stop="20261108115800 +0800">
+    <title lang="zh">天氣報告</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108115800 +0800" stop="20261108120000 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108120000 +0800" stop="20261108130000 +0800">
+    <title lang="zh">錄播澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108130000 +0800" stop="20261108140000 +0800">
+    <title lang="zh">錄播澳視新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108140000 +0800" stop="20261108143000 +0800">
+    <title lang="zh">普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108143000 +0800" stop="20261108151500 +0800">
+    <title lang="zh">十點半澳視縱橫：中國城市動態</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108151500 +0800" stop="20261108155000 +0800">
+    <title lang="zh">晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108155000 +0800" stop="20261108160500 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108160500 +0800" stop="20261108163500 +0800">
+    <title lang="zh">中國城市報道</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108163500 +0800" stop="20261108164500 +0800">
+    <title lang="zh">澳門早晨精華篇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108164500 +0800" stop="20261108171500 +0800">
+    <title lang="zh">錄播普通話新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/ff6cb332e565b5c8c671b87889fd294d.jpg" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108171500 +0800" stop="20261108175000 +0800">
+    <title lang="zh">錄播晚間新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108175000 +0800" stop="20261108180000 +0800">
+    <title lang="zh">重播體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門資訊94台.mo" start="20261108180000 +0800" stop="20261108190000 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107015900 +0800" stop="20261107020000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107020000 +0800" stop="20261107025500 +0800">
+    <title lang="zh">2026世界羽毛球錦標賽：女雙4強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/a46b912bf28fe26f0ba488acc0f5efa9.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107025500 +0800" stop="20261107043000 +0800">
+    <title lang="zh">2026世界羽毛球錦標賽：男單4強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/a46b912bf28fe26f0ba488acc0f5efa9.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107043000 +0800" stop="20261107050000 +0800">
+    <title lang="zh">2026勒芒盃雜誌：第三集 勒芒站</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107050000 +0800" stop="20261107051500 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107051500 +0800" stop="20261107081500 +0800">
+    <title lang="zh">2026法國網球公開賽：女單8強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107081500 +0800" stop="20261107082500 +0800">
+    <title lang="zh">每周體育精華</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107082500 +0800" stop="20261107102500 +0800">
+    <title lang="zh">直播2026/27 亞洲女子冠軍聯賽：奈古香 對 神戶雌獅</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/783ce2539c6a7b4831c2a92529e1a058.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107102500 +0800" stop="20261107123000 +0800">
+    <title lang="zh">直播2026/27 亞洲女子冠軍聯賽：墨爾本城 對 北京京壇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-10/783ce2539c6a7b4831c2a92529e1a058.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107123000 +0800" stop="20261107125000 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107125000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107130000 +0800" stop="20261107150000 +0800">
+    <title lang="zh">錄播亞洲冠軍二級聯賽：町田澤維亞 對 上海申花</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/7b805355237b3d50c8dcbde3fc146785.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107150000 +0800" stop="20261107150500 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107150500 +0800" stop="20261107170000 +0800">
+    <title lang="zh">2026/2027歐洲冠軍聯賽 ：曼聯 對  羅馬</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/61f4983b8b30e53c22c56c6be17e7b5b.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261107170000 +0800" stop="20261107180000 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108015900 +0800" stop="20261108020000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108020000 +0800" stop="20261108044500 +0800">
+    <title lang="zh">2026法國網球公開賽：男單8強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108044500 +0800" stop="20261108050000 +0800">
+    <title lang="zh">愛知．名古屋第20屆亞運會：反曲弓混合團體4強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108050000 +0800" stop="20261108051500 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108051500 +0800" stop="20261108064500 +0800">
+    <title lang="zh">愛知．名古屋第20屆亞運會：男足4強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108064500 +0800" stop="20261108073500 +0800">
+    <title lang="zh">愛知．名古屋第20屆亞運會：男子24米手槍速射決賽</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108073500 +0800" stop="20261108081500 +0800">
+    <title lang="zh">競健群英2026</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108081500 +0800" stop="20261108090500 +0800">
+    <title lang="zh">2026世界羽毛球錦標賽：女單4強</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/a46b912bf28fe26f0ba488acc0f5efa9.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108090500 +0800" stop="20261108104000 +0800">
+    <title lang="zh">2026世界羽毛球錦標賽：混雙決賽</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/a46b912bf28fe26f0ba488acc0f5efa9.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108104000 +0800" stop="20261108105000 +0800">
+    <title lang="zh">每周體育精華</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108105000 +0800" stop="20261108110000 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108110000 +0800" stop="20261108125000 +0800">
+    <title lang="zh">2026年超級跑車錦標賽精華：第十九集-泰蘭灣站</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108125000 +0800" stop="20261108130000 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108130000 +0800" stop="20261108150000 +0800">
+    <title lang="zh">2026/2027歐洲冠軍聯賽 ：費倫巴治 對 利物浦</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/61f4983b8b30e53c22c56c6be17e7b5b.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108150000 +0800" stop="20261108151000 +0800">
+    <title lang="zh">體育新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108151000 +0800" stop="20261108171500 +0800">
+    <title lang="zh">直播2026/2027西班牙甲組足球聯賽：皇家蘇斯達 對 華歷簡奴</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/5bad54cc18acc5e72db2d9dcb112968d.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108171500 +0800" stop="20261108175500 +0800">
+    <title lang="zh">環球體育</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108175500 +0800" stop="20261108195500 +0800">
+    <title lang="zh">2026/2027 歐洲聯賽：水晶宮 對 賀芬咸</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-09/b8d0fdd79d3e13ffa01c2f22d024cb3e.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108195500 +0800" stop="20261108220000 +0800">
+    <title lang="zh">直播2026/2027西班牙甲組足球聯賽：馬德里體育會 對 巴塞羅那</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-08/5bad54cc18acc5e72db2d9dcb112968d.jpg" />
+  </programme>
+  <programme channel="澳門體育93台.mo" start="20261108220000 +0800" stop="20261108230000 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107015900 +0800" stop="20261107020000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107020000 +0800" stop="20261107050200 +0800">
+    <title lang="zh">好劇連場: 點心之路</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107050200 +0800" stop="20261107075800 +0800">
+    <title lang="zh">好劇連場: 心靈法醫</title>
+    <desc lang="zh">《心靈法醫》由聶遠、宋軼主演。該劇根據法醫朱明川的小說《聽屍》改編。明川，鵬海市警隊法醫，技術出眾，天賦異稟。當明川 站在屍檢台前，他就成了鵬海市遠近聞名的“聽屍者”。憑著微小的線索就能找出真相，破獲了一宗宗離奇的案件。但除了探尋真相之外，他還關心一些與法醫無關的事情——死者的遺願，生者的遺憾。對活人的疏離和對死人的溫暖，讓明川成為一個神秘的存在。沒有人能了解他的過去，也沒有人能預測他的將來。適時，鵬海市發生一連環殺人案，兇手在短短幾年的時間裡接連殺了多個人，每次都會將被害人開膛破肚。這些案件作案手法十分獨特，警方判斷兇手曾受過醫學專業的訓練，稱之為“殺人醫生”。“殺人醫生”案吸引了初來乍到的刑警女隊長羅筆芯的注意，她將目光鎖定到神秘的明川身上，並開始在工作和生活中關注明川。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/1db0e292549e89e588366006496ecae9.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107075800 +0800" stop="20261107080500 +0800">
+    <title lang="zh">國寶時刻</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107080500 +0800" stop="20261107083500 +0800">
+    <title lang="zh">我是你的瓷兒</title>
+    <desc lang="zh">以中國手工瓷裝飾歷史為脈絡，以瓷器的顏值為貫穿點，通過講述手工瓷器之美，拉近我們與瓷兒的距離。從簡單的單色釉，繁衍到五彩交融的各類裝飾，青花、鬥彩、五彩及現代創新裝飾等，依託手工瓷器發展時光軸，次第登場。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-03/7d0faff7a5f6d03cf21df6e05507aa72.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107083500 +0800" stop="20261107093000 +0800">
+    <title lang="zh">致命預報</title>
+    <desc lang="zh">極端天氣，造成極大破壞，氣象專家、科學家研究重大天氣事件暴增以及做成的惡果，日新月異的科技，不斷造福世人，對於預測天氣，能否做到更準確？放眼未來，又有沒有新技術可以控制天氣？</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-09/6f3d5921bf751b3edf697c8e3dd8d7ba.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107093000 +0800" stop="20261107095800 +0800">
+    <title lang="zh">澳門早晨精華錄</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107095800 +0800" stop="20261107100000 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107100000 +0800" stop="20261107102500 +0800">
+    <title lang="zh">籃球旋風 第二季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107102500 +0800" stop="20261107120000 +0800">
+    <title lang="zh">如果奔跑是我的人生</title>
+    <desc lang="zh">劇集改編自紀靜蓉的小說《如果奔跑是我的宿命》，由鍾楚曦、楊超越、許娣、陳小藝、侯雯元領銜主演 。該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣。&lt;br&gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊。趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿。陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍。然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力。另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥。隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾。趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-07/2f725d9fa94bb0e834459503a1771d7c.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107120000 +0800" stop="20261107122400 +0800">
+    <title lang="zh">走進水世界</title>
+    <desc lang="zh">通過鏡頭，體驗水上以及水中獨特感受，展開環球之旅，挑戰各種極限，探索未知領域，目睹大自然的美妙。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-11/531e8ae583c2953cfa901613bfdcb31f.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107122400 +0800" stop="20261107123000 +0800">
+    <title lang="zh">世遺City Walk</title>
+    <desc lang="zh">時下流行城市漫步！今次阿盛和Bianca就會作為澳門地膽，帶大家穿梭街巷，品嘗美食，快閃世遺，打卡「澳門歷史城區」，與大家一同發掘澳門的不同面貌。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-07/0e82a4cfa8093bcd0eb888e946f5d555.bmp" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107123000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">我是你的瓷兒</title>
+    <desc lang="zh">以中國手工瓷裝飾歷史為脈絡，以瓷器的顏值為貫穿點，通過講述手工瓷器之美，拉近我們與瓷兒的距離。從簡單的單色釉，繁衍到五彩交融的各類裝飾，青花、鬥彩、五彩及現代創新裝飾等，依託手工瓷器發展時光軸，次第登場。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-03/7d0faff7a5f6d03cf21df6e05507aa72.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107130000 +0800" stop="20261107134300 +0800">
+    <title lang="zh">鄖縣人3號</title>
+    <desc lang="zh">《“鄖縣人”3號》共三集，分別為《啟封》、《領隊》、《遠方》，聚焦于東方人類起源演化的重大里程碑成果，用伴隨式的鏡頭，從考古發掘工作與“考古人”兩條脈絡出發，全景式記錄“鄖縣人”3號頭骨發掘、提取工作，借助對考古隊生活化情境和細節描摹，傳播考古人的文化傳承精神，詮釋中國人的文明源流與精神底色。在古今“鄖縣人”跨越百萬年的時空對話中，探索人類起源之路，追尋過去的歷史，也不斷思索未來，叩問全人類發展的方向。本片由&lt;湖北廣播電視台&gt;贈播。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-07/44962092e00760f2d5704aa8695345bb.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107134300 +0800" stop="20261107135000 +0800">
+    <title lang="zh">海派百工2</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107135000 +0800" stop="20261107150000 +0800">
+    <title lang="zh">唐頓莊園 第五季</title>
+    <desc lang="zh">第五季的劇情主要圍繞著唐頓莊園面臨的時代挑戰展開，貴族和僕人之間的生活繼續交織，展現了家族內部的愛恨情仇和秘密，以及在外來文化衝擊下莊園的新挑戰。瑪麗在喪夫後努力保護莊園，並尋找新的生活，她的愛情故事也跌宕起伏，為劇情增添了緊張感。同時，伊蒂絲和德魯的關係面臨危機，安娜和貝茨的故事線也引人入勝。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-07/15377e9fdb16a6dfd5d628541503e443.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107150000 +0800" stop="20261107160100 +0800">
+    <title lang="zh">青春有歌</title>
+    <desc lang="zh">節目每集設置一個音樂主題，邀請經典校園歌曲音樂人、新聲代校園歌手與主持人一起“唱”、“談”八十、九十年代流行的校園歌曲及校園民謠，欣賞新時代優秀原創校園歌曲作品，分享歌曲創作演出經歷和音樂背後的故事。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-03/ec5c69b216890cbbea0c011c8f658f2e.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261107160100 +0800" stop="20261107170100 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108015900 +0800" stop="20261108020000 +0800">
+    <title lang="zh">開台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108020000 +0800" stop="20261108050200 +0800">
+    <title lang="zh">好劇連場: 點心之路</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108050200 +0800" stop="20261108080500 +0800">
+    <title lang="zh">好劇連場: 心靈法醫</title>
+    <desc lang="zh">《心靈法醫》由聶遠、宋軼主演。該劇根據法醫朱明川的小說《聽屍》改編。明川，鵬海市警隊法醫，技術出眾，天賦異稟。當明川 站在屍檢台前，他就成了鵬海市遠近聞名的“聽屍者”。憑著微小的線索就能找出真相，破獲了一宗宗離奇的案件。但除了探尋真相之外，他還關心一些與法醫無關的事情——死者的遺願，生者的遺憾。對活人的疏離和對死人的溫暖，讓明川成為一個神秘的存在。沒有人能了解他的過去，也沒有人能預測他的將來。適時，鵬海市發生一連環殺人案，兇手在短短幾年的時間裡接連殺了多個人，每次都會將被害人開膛破肚。這些案件作案手法十分獨特，警方判斷兇手曾受過醫學專業的訓練，稱之為“殺人醫生”。“殺人醫生”案吸引了初來乍到的刑警女隊長羅筆芯的注意，她將目光鎖定到神秘的明川身上，並開始在工作和生活中關注明川。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-10/1db0e292549e89e588366006496ecae9.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108080500 +0800" stop="20261108093000 +0800">
+    <title lang="zh">越戰越勇</title>
+    <desc lang="zh">《越戰越勇》為有著歌唱夢想的觀眾開放，關注他們“築夢、追夢、圓夢”的心路歷程，主打“真人、真故事”，所有創作皆以真實為核心。每個登場選手沒有任何劇本，他們只需做到“盡情歌唱”和“實話實說”。每期有6位來自全國各地、各行各業的參賽者登上舞台，通過演唱環節及點評投票對決環節，增加節目的刺激性。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-03/2141b7470e555cd4044042cae6f79d1a.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108093000 +0800" stop="20261108095800 +0800">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108095800 +0800" stop="20261108100000 +0800">
+    <title lang="zh">TDM 新視點</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108100000 +0800" stop="20261108102500 +0800">
+    <title lang="zh">籃球旋風 第二季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108102500 +0800" stop="20261108120000 +0800">
+    <title lang="zh">乘風踏浪</title>
+    <desc lang="zh">《乘風踏浪》由喬杉、楊子姍領銜主演的時代創業喜劇。該劇講述了以彭錦西和羅虹夫婦為代表的興城泳裝人乘著改革東風成功創業的故事，通過兩個小人物從解決溫飽到成為萬元戶，再到成為當地企業家代表的歷程，將時代發展浪潮的關鍵節點一一還原，以小見大地展現出改革開放的變遷史。&lt;br&gt;1978年，20歲的遼寧興城人彭錦西（喬杉飾）被情敵秦升舉報“投機倒把”入獄，失去了上大學的資格。彭錦西出獄後自產自銷做起泳褲生意，女友羅虹（楊子姍飾）不離不棄，他們克服重重困難喜結連理，彭錦西成為當地第一個“萬元戶”。1980年代初，政策放開，遠親賈為民等人效仿彭錦西建作坊做泳裝，開始與他展開價格戰，彭錦西夫婦見招拆招，既鞏固了本地市場，又團結了同行，讓“興城泳裝”走向全國。1990年代，彭錦西遭遇秦升復仇和市場整改的雙面夾擊，跌入低谷，他依舊樂觀，憑藉過人的智慧，幾經沉浮找到突破口，建立正規工廠和自主品牌，成功突圍。之後，夫婦二帶領“興城泳裝”乘風踏浪，成為全球最大的泳裝生產基地。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-02/224b056ac3619b09e8b8d831859d66a4.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108120000 +0800" stop="20261108124500 +0800">
+    <title lang="zh">傳奇之星歷險記</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108124500 +0800" stop="20261108130000 +0800">
+    <title lang="zh">四川非遺100（第三季）</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108130000 +0800" stop="20261108140000 +0800">
+    <title lang="zh">歸去來兮 - 兩岸百年黃埔記憶</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108140000 +0800" stop="20261108153500 +0800">
+    <title lang="zh">電影: 愛情良餐</title>
+    <desc lang="zh">莉亞堅持自己做所有事情，努力擴大她的非營利送餐服務，在伊萊的幫助下，她發現生意就像浪漫一樣，只要付出一點努力和信任就可以綻放。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2024-08/0b0b8e2e4c18869fb1b2f8de928396ff.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108153500 +0800" stop="20261108160100 +0800">
+    <title lang="zh">《葡角漫遊》之佛得角</title>
+    <desc lang="zh">澳門一直與葡萄牙及其他葡語系國家保持著良好的關係，隨著澳廣視轄下澳門 - Macau衛星頻道落地到葡語國家，觀眾範圍不斷擴大，彼此交流更加方便。澳廣視主持人布廷欣早前到訪葡語系國家葡萄牙及佛得角。一連三集的《葡角漫遊》之佛得角，分別會帶大家快閃葡萄牙，一嘗當地美食; 去到佛得角首都普拉亞，了解中國在當地的援助項目;還會去到佛得角其中兩個擁有美麗海洋資源的島嶼，感受不一樣的非洲風情。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-12/5a5ffc7d2a454e9630a5d4bc2bc04d63.jpg" />
+  </programme>
+  <programme channel="澳門綜藝95台.mo" start="20261108160100 +0800" stop="20261108170100 +0800">
+    <title lang="zh">收台</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106160200 +0800" stop="20261106164800 +0800">
+    <title lang="zh">葡語體育</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-01/e83bcdaefadf07958e11dc6f6df32c90.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106164800 +0800" stop="20261106170000 +0800">
+    <title lang="zh">葡文節目重溫 - 葡式烹飪</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106170000 +0800" stop="20261106173000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106173000 +0800" stop="20261106180000 +0800">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106180000 +0800" stop="20261106185000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106185000 +0800" stop="20261106191000 +0800">
+    <title lang="zh">澳門早晨精華錄</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106191000 +0800" stop="20261106194200 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106194200 +0800" stop="20261106203200 +0800">
+    <title lang="zh">童唱嶺南</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106203200 +0800" stop="20261106204000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106204000 +0800" stop="20261106213000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106213000 +0800" stop="20261106220000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106220000 +0800" stop="20261106224700 +0800">
+    <title lang="zh">葡語體育</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-01/e83bcdaefadf07958e11dc6f6df32c90.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106224700 +0800" stop="20261106230000 +0800">
+    <title lang="zh">葡文節目重溫 - 葡式烹飪</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106230000 +0800" stop="20261106233000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261106233000 +0800" stop="20261107000000 +0800">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107000000 +0800" stop="20261107003500 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107003500 +0800" stop="20261107010000 +0800">
+    <title lang="zh">教煮CHILL 好玩</title>
+    <desc lang="zh">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5de6f1ab078439022c8be700e4f3eb09.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107010000 +0800" stop="20261107013000 +0800">
+    <title lang="zh">灣區全媒睇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107013000 +0800" stop="20261107020000 +0800">
+    <title lang="zh">澳視新聞檔案</title>
+    <desc lang="zh">節目設有“一周大事記”、“近距離對話”、“新聞深度遊”等環節，為大家重溫一周本地及國際大事，邀請政府官員或社會人士近距離對話，探討時事熱話，亦會深度報道社會關注議題。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/fb03fef013eaab594788eeb74e6d9ca9.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107020000 +0800" stop="20261107023000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107023000 +0800" stop="20261107032000 +0800">
+    <title lang="zh">童唱嶺南</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107032000 +0800" stop="20261107034700 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107034700 +0800" stop="20261107042000 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107042000 +0800" stop="20261107045000 +0800">
+    <title lang="zh">澳視新聞檔案</title>
+    <desc lang="zh">節目設有“一周大事記”、“近距離對話”、“新聞深度遊”等環節，為大家重溫一周本地及國際大事，邀請政府官員或社會人士近距離對話，探討時事熱話，亦會深度報道社會關注議題。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/fb03fef013eaab594788eeb74e6d9ca9.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107045000 +0800" stop="20261107052000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107052000 +0800" stop="20261107054500 +0800">
+    <title lang="zh">教煮CHILL 好玩</title>
+    <desc lang="zh">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5de6f1ab078439022c8be700e4f3eb09.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107054500 +0800" stop="20261107055400 +0800">
+    <title lang="zh">時局綜觀-英文字幕版</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107055400 +0800" stop="20261107060000 +0800">
+    <title lang="zh">澳門非物質文化遺產</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107060000 +0800" stop="20261107063000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107063000 +0800" stop="20261107070000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107070000 +0800" stop="20261107075000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107075000 +0800" stop="20261107080500 +0800">
+    <title lang="zh">天天成長記 第一至四季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107080500 +0800" stop="20261107085500 +0800">
+    <title lang="zh">童唱嶺南</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107085500 +0800" stop="20261107094000 +0800">
+    <title lang="zh">葡語體育</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2023-01/e83bcdaefadf07958e11dc6f6df32c90.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107094000 +0800" stop="20261107101200 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107101200 +0800" stop="20261107104000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107104000 +0800" stop="20261107110000 +0800">
+    <title lang="zh">澳門早晨精華錄</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107110000 +0800" stop="20261107110800 +0800">
+    <title lang="zh">時局綜觀-英文字幕版</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107110800 +0800" stop="20261107113000 +0800">
+    <title lang="zh">教煮CHILL 好玩</title>
+    <desc lang="zh">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5de6f1ab078439022c8be700e4f3eb09.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107113000 +0800" stop="20261107120000 +0800">
+    <title lang="zh">澳視新聞檔案</title>
+    <desc lang="zh">節目設有“一周大事記”、“近距離對話”、“新聞深度遊”等環節，為大家重溫一周本地及國際大事，邀請政府官員或社會人士近距離對話，探討時事熱話，亦會深度報道社會關注議題。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2025-02/fb03fef013eaab594788eeb74e6d9ca9.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107120000 +0800" stop="20261107130000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107130000 +0800" stop="20261107133000 +0800">
+    <title lang="zh">灣區全媒睇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107133000 +0800" stop="20261107140000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107140000 +0800" stop="20261107145000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107145000 +0800" stop="20261107154000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107154000 +0800" stop="20261107164000 +0800">
+    <title lang="zh">教煮CHILL 好玩</title>
+    <desc lang="zh">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-06/5de6f1ab078439022c8be700e4f3eb09.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107160200 +0800" stop="20261107163500 +0800">
+    <title lang="zh">中國360°</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-03/835d603f890dd12e5c9efadfab95e638.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107163500 +0800" stop="20261107165300 +0800">
+    <title lang="zh">澳門仁慈堂</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-04/55e49c611f8c8321dacc9e4e28149f9c.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107165300 +0800" stop="20261107170000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107170000 +0800" stop="20261107173000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107173000 +0800" stop="20261107180000 +0800">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107180000 +0800" stop="20261107185000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107185000 +0800" stop="20261107193000 +0800">
+    <title lang="zh">財經雜誌 - 對話灣區</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107193000 +0800" stop="20261107194000 +0800">
+    <title lang="zh">澳門世遺短片</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107194000 +0800" stop="20261107203000 +0800">
+    <title lang="zh">灣區故事: 水圍村 "1368"的日月星辰</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107203000 +0800" stop="20261107204000 +0800">
+    <title lang="zh">家家有餸煮</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107204000 +0800" stop="20261107213000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107213000 +0800" stop="20261107220000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107220000 +0800" stop="20261107223000 +0800">
+    <title lang="zh">中國360°</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-03/835d603f890dd12e5c9efadfab95e638.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107223000 +0800" stop="20261107225000 +0800">
+    <title lang="zh">澳門仁慈堂</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-04/55e49c611f8c8321dacc9e4e28149f9c.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107225000 +0800" stop="20261107230000 +0800">
+    <title lang="zh">澳門非物質文化遺產</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107230000 +0800" stop="20261107233000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261107233000 +0800" stop="20261108000000 +0800">
+    <title lang="zh">英語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/449e1787a84188f8816af81754f1618f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108000000 +0800" stop="20261108001000 +0800">
+    <title lang="zh">時局綜觀-英文字幕版</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108001000 +0800" stop="20261108003000 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108003000 +0800" stop="20261108004000 +0800">
+    <title lang="zh">澳門世遺短片</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108004000 +0800" stop="20261108010300 +0800">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108010300 +0800" stop="20261108013000 +0800">
+    <title lang="zh">灣區全媒睇</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108013000 +0800" stop="20261108021000 +0800">
+    <title lang="zh">財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108021000 +0800" stop="20261108023500 +0800">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108023500 +0800" stop="20261108032500 +0800">
+    <title lang="zh">灣區故事: 水圍村 "1368"的日月星辰</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108032500 +0800" stop="20261108035500 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108035500 +0800" stop="20261108041500 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108041500 +0800" stop="20261108042500 +0800">
+    <title lang="zh">澳門世遺短片</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108042500 +0800" stop="20261108050500 +0800">
+    <title lang="zh">財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108050500 +0800" stop="20261108053000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108053000 +0800" stop="20261108055500 +0800">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108055500 +0800" stop="20261108060500 +0800">
+    <title lang="zh">時局綜觀-英文字幕版</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108060500 +0800" stop="20261108063000 +0800">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108063000 +0800" stop="20261108070000 +0800">
+    <title lang="zh">唐‧西豐味</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108070000 +0800" stop="20261108075000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108075000 +0800" stop="20261108080500 +0800">
+    <title lang="zh">天天成長記 第一至四季</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108080500 +0800" stop="20261108085000 +0800">
+    <title lang="zh">灣區故事: 水圍村 "1368"的日月星辰</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108085000 +0800" stop="20261108092000 +0800">
+    <title lang="zh">中國360°</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-03/835d603f890dd12e5c9efadfab95e638.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108092000 +0800" stop="20261108093000 +0800">
+    <title lang="zh">好書分享</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108093000 +0800" stop="20261108095000 +0800">
+    <title lang="zh">澳門經典車小百科</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108095000 +0800" stop="20261108100000 +0800">
+    <title lang="zh">澳門世遺短片</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108100000 +0800" stop="20261108103000 +0800">
+    <title lang="zh">“葡”出個味蕾</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108103000 +0800" stop="20261108105200 +0800">
+    <title lang="zh">趨記茶餐廳</title>
+    <desc lang="zh">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2026-05/e0526e37ee2455f7bd5b54c5f9b81bb0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108105200 +0800" stop="20261108110000 +0800">
+    <title lang="zh">時局綜觀-英文字幕版</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108110000 +0800" stop="20261108112200 +0800">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108112200 +0800" stop="20261108120000 +0800">
+    <title lang="zh">財經雜誌</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108120000 +0800" stop="20261108130000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108130000 +0800" stop="20261108134100 +0800">
+    <title lang="zh">財經雜誌 - 對話灣區</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108134100 +0800" stop="20261108140000 +0800">
+    <title lang="zh">AI 劇場 解夢人</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108140000 +0800" stop="20261108145000 +0800">
+    <title lang="zh">粵語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-10/191bc3ad64a2389cf5d843843472360f.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108145000 +0800" stop="20261108154000 +0800">
+    <title lang="zh">葡語新聞</title>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2022-10/41ef4898f62a137c1f4f67d3f17db135.jpg" />
+  </programme>
+  <programme channel="澳門-Macau96台.mo" start="20261108154000 +0800" stop="20261108164000 +0800">
+    <title lang="zh">家家有本事</title>
+    <desc lang="zh">《家家有本事》為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活、健康資訊等元素。</desc>
+    <icon src="https://cdn2.tdm.com.mo/uploads/attachment/2021-09/183f9ff4ebfb5a560c7162d96ff7fda0.jpg" />
+  </programme>
+</tv>
